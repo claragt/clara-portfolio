@@ -2,6 +2,7 @@
 	--primary: blue;
 	--secondary: white;
 	--background: #FFF0EB;
+	font-size: calc(1rem + 0.5vw);
 }
 
 *, *:before, *:after {

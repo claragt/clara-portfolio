@@ -1,0 +1,109 @@
+:root {
+	--primary: black;
+	--secondary: blue;
+	--background: white;
+	font-size: calc(1rem + 0.5vw);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
+  --border: 4px solid black;
+  --padding: calc(1rem * 1.4);
+  --border-thick: 4px;
+  margin: 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+p, ul, ol {
+  line-height: 1.5;
+}
+
+ul, ol{
+   padding-inline-start: 1em;
+}
+
+h1, h2, h3, h4{
+  margin-bottom: 0;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+
+  display: grid;
+  height: 100vh;
+  grid-template-rows: auto 1fr auto;
+  padding: 2rem;
+  background: white;
+}
+
+.wrapper {
+  border-width: var(--border-thick);
+  border: var(--border-thick) solid;
+  padding: var(--padding);
+}
+
+/* Header
+-----------------------------------------------------------------------*/
+header nav{
+  /*float: right;*/
+}
+header nav ul{
+  padding:0;list-style:none
+}
+header nav ul :first-child{
+  margin-left:0
+}
+header nav li{
+  display:inline-block;
+  margin:0 .5em
+}  
+header nav li a{        
+  text-decoration-thickness: 0.2em;
+  text-decoration-skip-ink: none;
+}
+header nav li a[href]:not(:hover){
+  text-decoration:none
+}
+
+header nav li a[href](:hover){
+  text-decoration:underline;
+  text-decoration-thickness: 0.2em;
+  text-decoration-skip-ink: none;
+}
+header nav li a:not(:hover)[data-current="current item"]{
+  text-decoration:underline;
+  text-decoration-thickness: 0.2em;
+}
+
+/* Box
+-----------------------------------------------------------------------*/
+.box {
+  display: block;
+  padding: var(--padding);
+  border-width: var(--border-thick);
+  border: var(--border-thick) solid;
+  /* ↓ For high contrast mode */
+  outline: var(--border-thick) solid transparent;
+  outline-offset: calc(var(--border-thick) * -1);
+}
+
+/* The Stack
+-----------------------------------------------------------------------*/
+.stack {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  --space: 0.5rem;
+}
+
+.stack > * + * {
+  margin-top: var(--space);
+}
