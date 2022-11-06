@@ -23,7 +23,7 @@ Some of my favourite pieces of work are described below: 
 * NHS Digital - Equity and inclusion in digital services, and UCD maturity and capability
 
 <a name="academy"></a>
-
+<br />
 ## A 12 week user-centred design academy
 
 I created and ran a 12 week user-centred design academy in 2022 with [Mark Wright](https://mrkwrght.com/), at [an agency](https://www.madetech.com/careers/academy/design-and-user-research/). We took 12 people and kick-started their UCD careers in the public sector. It was one of the most rewarding, fun and successful things I’ve done in my working life. 
@@ -40,6 +40,8 @@ You can [read my weeknotes](https://docs.google.com/document/d/1BcU3eVhWur_ww8a9
 
 If you’d like me to run something similar for you please, please get in touch. I’d jump at the opportunity to do it again. 
 
+<br />
+
 ## Government digital services - Lead designer
 
 I worked at the Government Digital Service (GDS) as a Lead Designer for 8 years, 2014-2022. 
@@ -53,13 +55,20 @@ The focus of my work at GDS was:
 
 At GDS I developed and ran 7 training courses for the cross-government community, training 1000s of civil servants. I also worked on many services with teams and departments across government and I assessed 28 services.
 
+<br />
+
 ### Improving equity & inclusion in the design community
+<br />
 
 ### Bringing UCD to a Brexit data project
+<br />
 
 ### Delivering training as an agile service
+<br />
 
 ### Leading design in the Land Registry exemplar
+
+<br />
 
 ## NHS Digital - Equity and inclusion in digital services, and UCD maturity and capability
 
