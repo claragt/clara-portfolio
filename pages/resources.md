@@ -3,7 +3,7 @@ title: Resources
 date: 2022-11-06T00:28:43.926Z
 permalink: /resources/index.html
 eleventyNavigation:
-  order: 0
+  order: 5
   key: Resources
 ---
 Lists of resources for further learning in:
