@@ -11,9 +11,9 @@ eleventyNavigation:
 
 ## Designer, researcher and trainer
 
-I’m good at **building capability** in user-centred design through **training and community-based education**. 
+I **build capability** in user-centred design through **training and community-based education**.
 
-I’m determined to bring **equity and justice** into public sector digital transformation. 
+I’m always trying to bring **equity and justice** into public sector digital transformation. 
 
 I’m a **service designer** and **user-centred design** practitioner with over 17 years of experience. 
 
