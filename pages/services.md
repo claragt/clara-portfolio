@@ -15,12 +15,12 @@ I have a BSc in Computer science and a BA in Sociology and Psychology from the [
 Some of my favourite pieces of work are described below: 
 
 * [A 12 week user-centred design academy](#academy)
-* Government digital services - Lead designer
-* Improving equity & inclusion in the design community 
-* Bringing UCD to a Brexit data project
-* Delivering training as an agile service
-* Leading design in the Land Registry exemplar
-* NHS Digital - Equity and inclusion in digital services, and UCD maturity and capability
+* [Government digital services - Lead designer](#gds)
+* [Improving equity & inclusion in the design community](#equity) 
+* [Bringing UCD to a Brexit data project](#brexit)
+* [Delivering training as an agile service](#training)
+* [Leading design in the Land Registry exemplar](#land)
+* [NHS Digital - Equity and inclusion in digital services, and UCD maturity and capability](#nhs)
 
 <a name="academy"></a>
 <br />
@@ -43,6 +43,8 @@ If you’d like me to run something similar for you please, please get in touch.
 
 <br />
 
+<a name="gds"></a>
+
 ## Government digital services - Lead designer
 
 I worked at the Government Digital Service (GDS) as a Lead Designer for 8 years, 2014-2022. 
@@ -57,6 +59,8 @@ The focus of my work at GDS was:
 At GDS I developed and ran 7 training courses for the cross-government community, training 1000s of civil servants. I also worked on many services with teams and departments across government and I assessed 28 services.
 
 <br />
+
+<a name="equity"></a>
 
 ### Improving equity & inclusion in the design community
 
@@ -92,6 +96,8 @@ Results:
 
 <br />
 
+<a name="brexit"></a>
+
 ### Bringing UCD to a Brexit data project
 
 GDS was engaged to provide support and expertise to deliver a project and milestone tracking dashboard urgently - an interim solution was already in place and the next iteration was being procured at pace.
@@ -111,6 +117,8 @@ What I did:
 
 <br />
 
+<a name="training"></a>
+
 ### Delivering training as an agile service
 
 I developed and delivered 3 training courses alongside the Head of Service design at GDS (Martin Jordan):
@@ -129,11 +137,15 @@ I ran special editions of the course for specific teams, disciplines and audienc
 
 <br />
 
+**<a name="land"></a>**
+
 ### Leading design in the Land Registry exemplar
 
-
-
 <br />
+
+
+
+**<a name="nhs"></a>**
 
 ## NHS Digital - Equity and inclusion in digital services, and UCD maturity and capability
 
