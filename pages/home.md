@@ -18,3 +18,5 @@ I’m a **service designer** and **user-centred design** practitioner with over 
 I’m Australian and British, an immigrant, a part-time worker and a parent. My pronouns are she/her.
 
 I’m writing [a book called Strong Design](http://strongdesignbook.com/), with [Kara Kane](https://twitter.com/karakane_kk) and [Martin Jordan](http://martinjordan.com/).
+
+![](/static/img/clara-circle.png)
