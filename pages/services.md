@@ -12,7 +12,7 @@ I’ve been in the public and private sector, in agency and internal roles, and 
 
 I have a BSc in Computer science and a BA in Sociology and Psychology from the [University of NSW](https://www.unsw.edu.au/), Australia.
 
-Some of my favourite pieces of work are described below. 
+Some of my favourite pieces of work are described below: 
 
 * [A 12 week user-centred design academy](#academy)
 * Government digital services - Lead designer
