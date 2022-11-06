@@ -14,24 +14,15 @@ I have a BSc in Computer science and a BA in Sociology and Psychology from the [
 
 Some of my favourite pieces of work are described below. 
 
-[A 12 week user-centred design academy](#academy)
-A 12 week user-centred design academy 
-
-Government digital services - Lead designer
-
-Improving equity & inclusion in the design community
-
-Bringing UCD to a Brexit data project
-
-Delivering training as an agile service
-
-Leading design in the Land Registry exemplar
-
-NHS Digital - Equity and inclusion in digital services, and UCD maturity and capability
-
-
+* [A 12 week user-centred design academy](#academy)
+  Government digital services - Lead designerImproving equity & inclusion in the design community
+* Bringing UCD to a Brexit data project
+* Delivering training as an agile service
+* Leading design in the Land Registry exemplar
+* NHS Digital - Equity and inclusion in digital services, and UCD maturity and capability
 
 <a name="academy"></a>
+
 # A 12 week user-centred design academy
 
 I created and ran a 12 week user-centred design academy in 2022 with [Mark Wright](https://mrkwrght.com/), at [an agency](https://www.madetech.com/careers/academy/design-and-user-research/). We took 12 people and kick-started their UCD careers in the public sector. It was one of the most rewarding, fun and successful things I’ve done in my working life. 
