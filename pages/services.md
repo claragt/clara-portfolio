@@ -6,7 +6,13 @@ eleventyNavigation:
   order: 1
   key: Work
 ---
-I have worked user-centred researcher and designer for 17 years in the public and private sector, in agency and internal roles, and in industries including media, finance, banking, ecommerce and 3rd sector.
+I have worked as a user-centred researcher and designer for 17 years. 
+
+
+
+I’ve been in the public and private sector, in agency and internal roles, and in industries including media, finance, banking, ecommerce and 3rd sector.
+
+
 
 I have a BSc in Computer science and a BA in Sociology and Psychology from the [University of NSW](https://www.unsw.edu.au/), Australia.
 
