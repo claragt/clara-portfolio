@@ -141,6 +141,22 @@ I ran special editions of the course for specific teams, disciplines and audienc
 
 ### Leading design in the Land Registry exemplar
 
+The Land Registry exemplar was one of 25 exemplar projects chosen to launch GDS’s digital transformation of the UK government.
+
+The challenge was to fundamentally transform how the Land Registry worked and how they thought about their services and users. We wanted to give the Land Registry a new vision for their organisation. 
+
+What I did:
+
+* I designed and visualised a total transformation of the ‘Buy a property’ service. 
+* I embedded the practice of UCD into the team, guiding and demonstrating best practice and leading the design work on the team. 
+* I designed and rapidly iterated prototypes at different levels of fidelity, engaged in user research, and design decisions based on research insights.
+* I championed UCD in the team and throughout the Land Registry. 
+* I grew the capability of the researchers and designers in the Land Registry by coaching, mentoring and running training courses.
+
+
+
+![](/static/img/landreg.jpg)
+
 <br />
 
 
@@ -151,4 +167,10 @@ I ran special editions of the course for specific teams, disciplines and audienc
 
 In 2021 I worked at NHS Digital with [Sonia Turcotte](https://soniaturcotte.com/) on [equity and inclusion in digital services](https://docs.google.com/document/d/1dAqglXGTuYjadNg8RkNFtOFqfNgm2jbzGjZwEU3C_Eg/edit?usp=share_link), and on UCD maturity and capability. 
 
-It was a fascinating, complex and exciting piece of work.
+It was a fascinating, complex and exciting piece of work. 
+
+I examined the barriers to UCD in NHS Digital, worked with senior leaders and the design and research communities to decide on the best intervention to address these barriers, and designed and ran a new training course called Advocating for UCD. 
+
+Sonia and I ran the Power and privilege training course 3 times, training nearly 50 people. We also worked with existing teams and people in NHS Digital who were working to increase the equity of their services. We co-designed a consequence scanning workshop with the department, and delivered a presentation with our 5 recommendations for the organisation to leaders at different levels. 
+
+Our thoughts and findings are captured in [the weeknotes](https://docs.google.com/document/d/1dAqglXGTuYjadNg8RkNFtOFqfNgm2jbzGjZwEU3C_Eg/edit?usp=share_link) we wrote during this piece of work.
