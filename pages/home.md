@@ -7,9 +7,13 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-I’m Clara, an independent designer and researcher. 
+## Designer, researcher and trainer
 
-I’m good at **building capability** in user-centred design through **training and community-based education**. I’m determined to bring **equity and justice** into public sector digital transformation. I’m a **service designer** and **user-centred design** practitioner with over 17 years of experience. 
+I’m good at **building capability** in user-centred design through **training and community-based education**. 
+
+I’m determined to bring **equity and justice** into public sector digital transformation. 
+
+I’m a **service designer** and **user-centred design** practitioner with over 17 years of experience. 
 
 I’m Australian and British, an immigrant, a part-time worker and a parent. My pronouns are she/her.
 
