@@ -19,4 +19,4 @@ I’m Australian and British, an immigrant, a part-time worker and a parent. My 
 
 I’m writing [a book called Strong Design](http://strongdesignbook.com/), with [Kara Kane](https://twitter.com/karakane_kk) and [Martin Jordan](http://martinjordan.com/).
 
-![](/static/img/clara-circle.png)
+![](/static/img/clara-circle-250.png)
