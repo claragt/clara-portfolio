@@ -1,10 +1,10 @@
 ---
-title: My Work
+title: Work
 date: 2022-05-30T18:55:14.838Z
-permalink: /mywork/index.html
+permalink: /work/index.html
 eleventyNavigation:
   order: 1
-  key: My Work
+  key: Work
 ---
 I have worked user-centred researcher and designer for 17 years in the public and private sector, in agency and internal roles, and in industries including media, finance, banking, ecommerce and 3rd sector.
 
