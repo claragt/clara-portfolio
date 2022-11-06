@@ -14,7 +14,11 @@ However, I believe that supporting and investing in community is the best way to
 
 ## Courses coming up soon
 
-[Introduction to service design in Government](https://ignaciaorellana.com/training/)
+[Introduction to service design in Government: remote training course (£600 inc VAT)](https://ignaciaorellana.com/training/)
+
+W﻿hen: 6th December to 9th December, 2022
+
+
 
 ## Courses I can offer
 
