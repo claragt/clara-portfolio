@@ -15,7 +15,8 @@ I have a BSc in Computer science and a BA in Sociology and Psychology from the [
 Some of my favourite pieces of work are described below. 
 
 * [A 12 week user-centred design academy](#academy)
-  Government digital services - Lead designerImproving equity & inclusion in the design community
+* Government digital services - Lead designer
+* Improving equity & inclusion in the design community 
 * Bringing UCD to a Brexit data project
 * Delivering training as an agile service
 * Leading design in the Land Registry exemplar
@@ -23,7 +24,7 @@ Some of my favourite pieces of work are described below. 
 
 <a name="academy"></a>
 
-# A 12 week user-centred design academy
+## A 12 week user-centred design academy
 
 I created and ran a 12 week user-centred design academy in 2022 with [Mark Wright](https://mrkwrght.com/), at [an agency](https://www.madetech.com/careers/academy/design-and-user-research/). We took 12 people and kick-started their UCD careers in the public sector. It was one of the most rewarding, fun and successful things I’ve done in my working life. 
 
@@ -39,7 +40,7 @@ You can [read my weeknotes](https://docs.google.com/document/d/1BcU3eVhWur_ww8a9
 
 If you’d like me to run something similar for you please, please get in touch. I’d jump at the opportunity to do it again. 
 
-# Government digital services - Lead designer
+## Government digital services - Lead designer
 
 I worked at the Government Digital Service (GDS) as a Lead Designer for 8 years, 2014-2022. 
 
@@ -52,15 +53,15 @@ The focus of my work at GDS was:
 
 At GDS I developed and ran 7 training courses for the cross-government community, training 1000s of civil servants. I also worked on many services with teams and departments across government and I assessed 28 services.
 
-## Improving equity & inclusion in the design community
+### Improving equity & inclusion in the design community
 
-## Bringing UCD to a Brexit data project
+### Bringing UCD to a Brexit data project
 
-## Delivering training as an agile service
+### Delivering training as an agile service
 
-## Leading design in the Land Registry exemplar
+### Leading design in the Land Registry exemplar
 
-# NHS Digital - Equity and inclusion in digital services, and UCD maturity and capability
+## NHS Digital - Equity and inclusion in digital services, and UCD maturity and capability
 
 In 2021 I worked at NHS Digital with [Sonia Turcotte](https://soniaturcotte.com/) on [equity and inclusion in digital services](https://docs.google.com/document/d/1dAqglXGTuYjadNg8RkNFtOFqfNgm2jbzGjZwEU3C_Eg/edit?usp=share_link), and on UCD maturity and capability. 
 
