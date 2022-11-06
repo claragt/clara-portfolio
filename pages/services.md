@@ -8,21 +8,35 @@ eleventyNavigation:
 ---
 I have worked as a user-centred researcher and designer for 17 years. 
 
-
-
 I’ve been in the public and private sector, in agency and internal roles, and in industries including media, finance, banking, ecommerce and 3rd sector.
-
-
 
 I have a BSc in Computer science and a BA in Sociology and Psychology from the [University of NSW](https://www.unsw.edu.au/), Australia.
 
 Some of my favourite pieces of work are described below. 
 
+[A 12 week user-centred design academy](#academy)
+A 12 week user-centred design academy 
+
+Government digital services - Lead designer
+
+Improving equity & inclusion in the design community
+
+Bringing UCD to a Brexit data project
+
+Delivering training as an agile service
+
+Leading design in the Land Registry exemplar
+
+NHS Digital - Equity and inclusion in digital services, and UCD maturity and capability
+
+
+
+<a name="academy"></a>
 # A 12 week user-centred design academy
 
 I created and ran a 12 week user-centred design academy in 2022 with [Mark Wright](https://mrkwrght.com/), at [an agency](https://www.madetech.com/careers/academy/design-and-user-research/). We took 12 people and kick-started their UCD careers in the public sector. It was one of the most rewarding, fun and successful things I’ve done in my working life. 
 
-![](/static/img/screenshot-2022-11-06-at-00.17.23.png)
+![](/static/img/ucd-academy.jpg)
 
 Some of our aims for the academy were: 
 
