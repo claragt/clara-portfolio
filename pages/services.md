@@ -1,9 +1,9 @@
 ---
-title: Services
+title: My Work
 date: 2022-05-30T18:55:14.838Z
-permalink: /services/index.html
+permalink: /mywork/index.html
 eleventyNavigation:
   order: 2
-  key: Services
+  key: mywork
 ---
 [CONTENT]
