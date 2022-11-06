@@ -46,4 +46,4 @@ W﻿hen: 6th December to 9th December, 2022
 <br />
 
 
-**[Get in touch](/contact/index.html) if you’re interested in any of these courses.**
+### [Get in touch](/contact/index.html) if you’re interested in any of these courses
