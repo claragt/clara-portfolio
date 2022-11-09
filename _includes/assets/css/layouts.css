@@ -30,18 +30,19 @@ ul, ol{
 }
 
 h1, h2, h3, h4{
-  margin-bottom: 0;
+  margin-bottom: 2em;
+	margin-top: 2em;
 }
 
 .container {
-  max-width: 900px;
+  max-width: 800px;
   margin: 0 auto;
 
   display: grid;
   height: 100vh;
   grid-template-rows: auto 1fr auto;
-  padding: 2rem;
-  background: white;
+  padding: 3rem;
+  background: #d3e3d5;
 }
 
 .wrapper {
