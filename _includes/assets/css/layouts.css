@@ -1,7 +1,7 @@
 :root {
 	--primary: black;
 	--secondary: blue;
-	--background: #d3e3d5;
+	--background: white;
 	font-size: calc(1rem + 0.5vw);
 }
 
@@ -42,7 +42,7 @@ h1, h2, h3, h4{
   height: 100vh;
   grid-template-rows: auto 1fr auto;
   padding: 3rem;
-  background: #d3e3d5;
+  background: white;
 }
 
 .wrapper {
