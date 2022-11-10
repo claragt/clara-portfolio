@@ -6,9 +6,7 @@ eleventyNavigation:
   order: 4
   key: Writing
 ---
-Blog posts, articles and weeknotes I have written. I particularly love writing and working collaboratively with others. 
-
-
+Blog posts, articles and weeknotes I have written. 
 
 ### 2022
 
@@ -16,25 +14,17 @@ Blog posts, articles and weeknotes I have written. I particularly love writing a
 
 By Clara Greo
 
-
-
 [How we run service design training as an agile service](https://designnotes.blog.gov.uk/2022/04/04/how-we-run-service-design-training-as-an-agile-service/)
 
 By Clara Greo and Martin Jordan
-
-
 
 [What is user-centred design anyway?](https://medium.com/@KaraKane_kk/what-is-user-centred-design-anyway-ac9582ddb6c6)
 
 By Clara Greo and Kara Kane
 
-
-
 [How to run a careers event to increase the diversity of your team](https://designnotes.blog.gov.uk/2022/01/19/how-to-run-a-careers-event-to-increase-the-diversity-of-your-team/)
 
 By Keeley Robertson and Clara Greo
-
-
 
 ## 2021
 
@@ -42,13 +32,9 @@ By Keeley Robertson and Clara Greo
 
 By Clara Greo and Sonia Turcotte
 
-
-
 [What the user-centred design communities team achieved](https://designnotes.blog.gov.uk/2021/05/19/what-the-user-centred-design-communities-team-achieved/)
 
 By Keeley Robertson and Clara Greo
-
-
 
 [Reflections on the user-centred design communities team](https://designnotes.blog.gov.uk/2021/04/01/reflections-on-the-user-centred-design-communities-team/)
 
@@ -60,19 +46,13 @@ By Clara Greo and Keeley Robertson
 
 By Clara Greo, Rob King, Roger Wyatt and Sam McLaren
 
-
-
 [What we are doing to increase equity in the GDS design team](https://designnotes.blog.gov.uk/2020/02/22/what-we-are-doing-to-increase-equity-in-the-gds-design-team/)
 
 By Clara Greo and Harry Vos
 
-
-
 [What a demographics survey told us about the diversity of our design team](https://designnotes.blog.gov.uk/2020/01/25/what-a-demographics-survey-told-us-about-the-diversity-of-our-design-team/)
 
 By Clara Greo and Stephen McCarthy
-
-
 
 ## 2019
 
@@ -80,15 +60,11 @@ By Clara Greo and Stephen McCarthy
 
 By Jeremy Yun and Clara Greo
 
-
-
 ## 2018
 
 [Making design training better](https://designnotes.blog.gov.uk/2018/03/20/making-design-training-better/)
 
 By Clara Greo
-
-
 
 ## 2016
 
