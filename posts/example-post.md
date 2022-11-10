@@ -46,15 +46,11 @@ We have a few subsidised or free tickets available. If you’re Black, disabled,
 
 # What you’ll learn
 
-What is a service?
-
-What is service design?
-
-What are the benefits of service design?
-
-What does a service designer do?
-
-How does a service designer work with other roles?
+* What is a service?
+* What is service design?
+* What are the benefits of service design?
+* What does a service designer do?
+* How does a service designer work with other roles?
 
 ## By the end of the course you will be able to:
 
