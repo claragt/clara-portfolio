@@ -100,6 +100,19 @@ She is determined to bring equity and justice into public sector digital transfo
 
 You can find Clara on [twitter](https://twitter.com/claragt)
 
+## Testimonials
+
+<div style=”margin-left:40px”>
+
+This is a great introductory course to understanding Service Design in government delivered by Clara and Ignacia, who are both well versed in this space with many years of experience between them. I really enjoyed participating and learning with and from others across government.
+- Hardeep Singh, aspiring Service Designer
+
+
+I got a real insight into the scope of the role of a service designer and how to approach projects with a service design mindset. Clara and Ignacia were warm, engaging and knowledgeable facilitators. I cannot recommend the course highly enough!  
+- Hannah Dryden, Content designer
+</div>
+
+
 ## Sign ups
 
 We need a minimum of 6 people to run this course. If we don’t reach this number we will refund your ticket, and we will let you know about a future date for the course.
