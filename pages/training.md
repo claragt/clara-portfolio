@@ -14,7 +14,7 @@ However, I believe that supporting and investing in community is the best way to
 
 ## Courses coming up soon
 
-[Introduction to service design in Government: remote training course (£600 inc VAT)](/posts/intro-to-service-design-training-in-december/)
+[Introduction to service design in Government: remote training course (£600 inc VAT)](/posts/introduction-to-service-design-in-government:-remote-training-course-(pound600-inc-vat)/)
 
 W﻿hen: 6th December to 9th December, 2022
 
