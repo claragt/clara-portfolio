@@ -13,13 +13,15 @@ eleventyNavigation:
 
 <div style="padding: 10px; border: 2px solid green; background-color: #D0EACF">
 
-<h4>Upcoming course:</h4>
+<strong>Upcoming course:</strong>
 
 <a href="https://www.claragreo.com/posts/introduction-to-service-design-in-government:-remote-training-course-(pound600-inc-vat)/">Introduction to service design in Government: remote training course (£600 inc VAT)</a>
 
 <p>6th December to 9th December, 2022
 
 </div>
+
+
 
 
 
