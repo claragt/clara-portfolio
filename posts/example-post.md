@@ -1,5 +1,6 @@
 ---
-title: Intro to service design training in December
+title: "Introduction to service design in Government: remote training course
+  (£600 inc VAT)"
 date: 2022-11-10T00:35:28.547Z
 author: Clara
 summary: "Introduction to service design in Government: remote training course
@@ -7,11 +8,7 @@ summary: "Introduction to service design in Government: remote training course
 tags:
   - Training
 ---
-# Introduction to service design in Government: remote training course (£600 inc VAT)
-
 **W﻿hen:** 6th December to 9th December, 2022
-
-
 
 ![A photo over the sholder of a person, holding a pen, drawing a mind map or sketch notes on a page, with "Intro to service design" written in the middle. The person has olive skin and wavy brown hair. ](/static/img/img_1448.jpg)
 
