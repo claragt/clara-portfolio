@@ -1,9 +1,9 @@
 ---
 title: Writing2
 date: 2022-11-10T00:14:11.485Z
-permalink: /writing/index.html
+permalink: /writing2/index.html
 eleventyNavigation:
-  order: 3
+  order: -7
   key: Writing2
 ---
 Blog posts, articles and weeknotes I have written. I particularly love writing and working collaboratively with others. 
