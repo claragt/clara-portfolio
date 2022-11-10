@@ -23,8 +23,6 @@ eleventyNavigation:
 
 
 
-
-
 \
 I **build capability** in user-centred design through **training and community-based education**.
 
