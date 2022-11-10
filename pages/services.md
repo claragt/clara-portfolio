@@ -3,7 +3,7 @@ title: Work
 date: 2022-05-30T18:55:14.838Z
 permalink: /work/index.html
 eleventyNavigation:
-  order: 1
+  order: 2
   key: Work
 ---
 I have worked as a user-centred researcher and designer for 17 years. 
