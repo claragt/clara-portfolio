@@ -6,6 +6,6 @@ date: 2017-01-01
 permalink: /News/index.html
 eleventyNavigation:
   key: News
-  order: 5
+  order: 3
 ---
 N﻿ew blog posts and live training courses
