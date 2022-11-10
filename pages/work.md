@@ -1,11 +1,11 @@
 ---
 layout: layouts/blog.njk
-title: Updates
+title: News
 metaDescription: A sample Blog page listing various posts and authors.
 date: 2017-01-01
-permalink: /Updates/index.html
+permalink: /News/index.html
 eleventyNavigation:
-  key: Updates
+  key: News
   order: 5
 ---
-U﻿pdates
+N﻿ew blog posts and live training courses
