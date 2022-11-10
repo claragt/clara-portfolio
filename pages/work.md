@@ -6,7 +6,7 @@ date: 2017-01-01
 permalink: /writing/index.html
 eleventyNavigation:
   key: Writing
-  order: 3
+  order: 7
 ---
 Blog posts, articles and weeknotes I have written. I particularly love writing and working collaboratively with others. 
 
