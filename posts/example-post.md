@@ -8,7 +8,7 @@ summary: "Introduction to service design in Government: remote training course
 tags:
   - Training
 ---
-<meta property="og:image" content="static/img/img_1448.jpg">
+<meta property="og:image" content="/static/img/img_1448.jpg">
 
 **W﻿hen:** 6th December to 9th December, 2022
 
