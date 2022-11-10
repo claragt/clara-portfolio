@@ -6,7 +6,7 @@ eleventyNavigation:
   order: 1
   key: Training
 ---
-<div style="padding: 20px; background-color: #d3e3d5">
+<div style="padding: 20px; background-color: #d3e3d5; border-radius: 7px">
 
 <strong>Upcoming course:</strong>
 
@@ -18,7 +18,7 @@ eleventyNavigation:
 
 I love running training and I’m pretty good at it. 
 
-However, I believe that supporting and investing in community is the best way to build capability, but training courses come a close second. Get in touch if you’d like to talk about UCD communities. 
+However, I believe that supporting and investing in community is the best way to build capability, but training courses come a close second. [Get in touch](/contact/index.html) if you’d like to talk about UCD communities. 
 
 <br />
 
@@ -26,7 +26,7 @@ However, I believe that supporting and investing in community is the best way to
 
 #### Equity and justice
 
-* Power and privilege: Designing and building equitable services (1 day course)
+* [Power and privilege: Designing and building equitable services](https://docs.google.com/document/d/1kAlQ9hp3AwUjRV_ov6E2T2Ix28IAzdEH_ENbwW13pUk/edit#heading=h.ssskjtmeglh0) (1 day course)
 
 #### User-centred design
 
@@ -37,7 +37,7 @@ However, I believe that supporting and investing in community is the best way to
 
 #### Service design
 
-* Introduction to service design (1 day course)
+* [Introduction to service design](https://www.claragreo.com/posts/introduction-to-service-design-in-government:-remote-training-course-(pound600-inc-vat)/) (1 day course)
 * Service design in practice (2 day course)
 * Service mapping practitioner level course (1 day course)
 * Trauma informed research (2 hour workshop)
