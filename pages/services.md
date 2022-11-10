@@ -29,7 +29,7 @@ Some of my favourite pieces of work are described below: 
 
 I created and ran a 12 week user-centred design academy in 2022 with [Mark Wright](https://mrkwrght.com/), at [an agency](https://www.madetech.com/careers/academy/design-and-user-research/). We took 12 people and kick-started their UCD careers in the public sector. It was one of the most rewarding, fun and successful things I’ve done in my working life. 
 
-![](/static/img/ucd-academy.jpg)
+![Three images. The first a screenshot of a google doc titled "Design and Research academy Delegates Handbook" and the subtitle is "Welcome!". The next image is a screenshot of a google hangout with 12 smiling faces. The last image is a photo of a sheet of stickers. The stickers say "Design and research academy" and there is a rocket and some green mountains.](/static/img/ucd-academy.jpg)
 
 Some of our aims for the academy were: 
 
@@ -153,13 +153,9 @@ What I did:
 * I championed UCD in the team and throughout the Land Registry. 
 * I grew the capability of the researchers and designers in the Land Registry by coaching, mentoring and running training courses.
 
-
-
 ![](/static/img/landreg.jpg)
 
 <br />
-
-
 
 **<a name="nhs"></a>**
 
