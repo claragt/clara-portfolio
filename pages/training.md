@@ -3,7 +3,7 @@ title: Training
 date: 2022-11-04T11:48:52.010Z
 permalink: /training/index.html
 eleventyNavigation:
-  order: 2
+  order: 1
   key: Training
 ---
 I love running training and I’m pretty good at it. 
