@@ -11,7 +11,7 @@ eleventyNavigation:
 
 ## Designer, researcher and trainer
 
-<div style="padding: 20px; background-color: #d3e3d5">
+<div style="padding: 20px; background-color: #d3e3d5; border-radius: 5px">
 
 <strong>Upcoming course:</strong>
 
