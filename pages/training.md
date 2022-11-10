@@ -7,22 +7,21 @@ eleventyNavigation:
   key: Training
 ---
 <div style="padding: 10px; border: 2px solid green; background-color: #D0EACF">
+
 <h4>Upcoming course:</h4>
-[Introduction to service design in Government: remote training course (£600 inc VAT)](https://www.claragreo.com/posts/introduction-to-service-design-in-government:-remote-training-course-(pound600-inc-vat)/)
+
+<a href="https://www.claragreo.com/posts/introduction-to-service-design-in-government:-remote-training-course-(pound600-inc-vat)/">Introduction to service design in Government: remote training course (£600 inc VAT)</a>
+
 <p>6th December to 9th December, 2022
+
 </div>
+
+\
+<br />
 
 I love running training and I’m pretty good at it. 
 
 However, I believe that supporting and investing in community is the best way to build capability, but training courses come a close second. Get in touch if you’d like to talk about UCD communities. 
-
-<br />
-
-## Courses coming up soon
-
-[Introduction to service design in Government: remote training course (£600 inc VAT)](/posts/introduction-to-service-design-in-government:-remote-training-course-(pound600-inc-vat)/)
-
-W﻿hen: 6th December to 9th December, 2022
 
 <br />
 
