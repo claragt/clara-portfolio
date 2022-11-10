@@ -6,7 +6,7 @@ eleventyNavigation:
   order: 4
   key: Writing
 ---
-Blog posts, articles and weeknotes I have written. 
+Blog posts, articles and weeknotes. 
 
 ### 2022
 
