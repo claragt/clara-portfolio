@@ -23,7 +23,7 @@ Some of my favourite pieces of work are described below: 
 * [NHS Digital - Equity and inclusion in digital services, and UCD maturity and capability](#nhs)
 
 <a name="academy"></a>
-<br />
+
 
 ## A 12 week user-centred design academy
 
