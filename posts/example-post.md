@@ -12,7 +12,7 @@ tags:
 
 **W﻿hen:** 6th December to 9th December, 2022
 
-![A photo over the shoulder of a person, holding a pen, drawing a mind map or sketch notes on a page, with "Intro to service design" written in the middle. The person has olive skin and wavy brown hair. ](static/img/img_1448.jpg)
+![A photo over the shoulder of a person, holding a pen, drawing a mind map or sketch notes on a page, with "Intro to service design" written in the middle. The person has olive skin and wavy brown hair. ](/static/img/img_1448.jpg)
 
 **Where:** Online, on Zoom
 
