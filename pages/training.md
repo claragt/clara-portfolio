@@ -14,7 +14,7 @@ However, I believe that supporting and investing in community is the best way to
 
 ## Courses coming up soon
 
-[Introduction to service design in Government: remote training course (£600 inc VAT)](https://ignaciaorellana.com/training/)
+[Introduction to service design in Government: remote training course (£600 inc VAT)](/posts/intro-to-service-design-training-in-december/)
 
 W﻿hen: 6th December to 9th December, 2022
 
@@ -40,12 +40,10 @@ W﻿hen: 6th December to 9th December, 2022
 * Service mapping practitioner level course (1 day course)
 * Trauma informed research (2 hour workshop)
 
-
 #### Train the trainer
 
 * Writing great training (1 day course)
 
 <br />
-
 
 ### [Get in touch](/contact/index.html) if you’re interested in any of these courses
