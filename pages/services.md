@@ -107,7 +107,7 @@ My task was to design a service which was useful to government and also met the 
 
 What I did:
 
-* Map and visualised the service
+* Mapped and visualised the service
 * Engaged the team in research and design
 * Engaged and challenged stakeholders
 * Created a high-fidelity HTML prototype
