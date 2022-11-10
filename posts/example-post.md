@@ -8,9 +8,11 @@ summary: "Introduction to service design in Government: remote training course
 tags:
   - Training
 ---
+<meta property="og:image" content="static/img/img_1448.jpg">
+
 **W﻿hen:** 6th December to 9th December, 2022
 
-![A photo over the sholder of a person, holding a pen, drawing a mind map or sketch notes on a page, with "Intro to service design" written in the middle. The person has olive skin and wavy brown hair. ](/static/img/img_1448.jpg)
+![A photo over the shoulder of a person, holding a pen, drawing a mind map or sketch notes on a page, with "Intro to service design" written in the middle. The person has olive skin and wavy brown hair. ](static/img/img_1448.jpg)
 
 **Where:** Online, on Zoom
 
@@ -105,8 +107,6 @@ You can find Clara on [twitter](https://twitter.com/claragt)
 > "This is a great introductory course to understanding Service Design in government delivered by Clara and Ignacia, who are both well versed in this space with many years of experience between them. I really enjoyed participating and learning with and from others across government."
 
 Hardeep Singh, aspiring Service Designer  
-
-
 
 > "I got a real insight into the scope of the role of a service designer and how to approach projects with a service design mindset. Clara and Ignacia were warm, engaging and knowledgeable facilitators. I cannot recommend the course highly enough!"
 
