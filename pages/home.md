@@ -11,7 +11,7 @@ eleventyNavigation:
 
 ## Designer, researcher and trainer
 
-<div style="padding: 10px; border: 2px solid green; background-color: #D0EACF">
+<div style="padding: 10px; background-color: #D0EACF">
 
 <strong>Upcoming course:</strong>
 
@@ -20,8 +20,6 @@ eleventyNavigation:
 <p>6th December to 9th December, 2022
 
 </div>
-
-
 
 \
 I **build capability** in user-centred design through **training and community-based education**.
