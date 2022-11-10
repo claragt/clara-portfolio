@@ -1,5 +1,5 @@
 ---
-title: Example post
+title: Intro to service design training in December
 date: 2022-09-07T17:42:47.209Z
 author: Clara
 summary: "Introduction to service design in Government: remote training course
