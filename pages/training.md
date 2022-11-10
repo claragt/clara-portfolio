@@ -15,7 +15,7 @@ eleventyNavigation:
 <p>6th December to 9th December, 2022
 
 </div>
-
+\
 I love running training and I’m pretty good at it. 
 
 However, I believe that supporting and investing in community is the best way to build capability, but training courses come a close second. [Get in touch](/contact/index.html) if you’d like to talk about UCD communities. 
