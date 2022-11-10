@@ -16,11 +16,6 @@ eleventyNavigation:
 
 </div>
 
-
-
-\
-<br />
-
 I love running training and I’m pretty good at it. 
 
 However, I believe that supporting and investing in community is the best way to build capability, but training courses come a close second. Get in touch if you’d like to talk about UCD communities. 
