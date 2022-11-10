@@ -1,7 +1,7 @@
 :root {
 	--primary: blue;
 	--secondary: white;
-	--background: white;
+	--background: whitesmoke;
 	font-size: calc(1rem + 0.5vw);
 }
 
