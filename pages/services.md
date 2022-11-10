@@ -22,8 +22,9 @@ Some of my favourite pieces of work are described below: 
 * [Leading design in the Land Registry exemplar](#land)
 * [NHS Digital - Equity and inclusion in digital services, and UCD maturity and capability](#nhs)
 
-<a name="academy"></a>
+<br />
 
+<a name="academy"></a>
 
 ## A 12 week user-centred design academy
 
