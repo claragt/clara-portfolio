@@ -6,7 +6,7 @@ eleventyNavigation:
   order: 1
   key: Training
 ---
-<div style="padding: 10px; background-color: #d3e3d5">
+<div style="padding: 20px; background-color: #d3e3d5">
 
 <strong>Upcoming course:</strong>
 
