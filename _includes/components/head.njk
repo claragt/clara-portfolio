@@ -17,7 +17,7 @@
   <!-- Open graph -->
   <meta property="og:site_name" content="{{ renderData.title or title or metadata.title }}">
   <meta property="og:title" content="{{ renderData.title or title or metadata.title }}">
-  <meta property="og:description" content="{{ metaDescription or renderData.metaDescription or metadata.description or title}}">
+  <meta property="og:description" content="{{ renderData.summary or metadata.summary or title}}">
   <meta property="og:url" content="https://www.claragreo.com/">
   <meta property="og:type" content="article">
   <meta property="og:image" content="{{ renderData.cover or cover }}">
