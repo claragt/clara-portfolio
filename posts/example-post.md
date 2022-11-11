@@ -3,12 +3,11 @@ title: "Introduction to service design in Government: remote training course
   (£600 inc VAT)"
 date: 2022-11-10T00:35:28.547Z
 author: Clara
-summary: "Introduction to service design in Government: remote training course
-  (£600 inc VAT), 6th December to 9th December, 2022"
+summary: "Learn what service design is and how you can use it with this 10 hour, fully remote training course"
+cover: "/static/img/img_1448.jpg"
 tags:
   - Training
 ---
-<meta property="og:image" content="/static/img/img_1448.jpg">
 
 **W﻿hen:** 6th December to 9th December, 2022
 
