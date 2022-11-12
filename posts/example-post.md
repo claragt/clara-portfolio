@@ -5,6 +5,7 @@ date: 2022-11-10T00:35:28.547Z
 author: Clara
 summary: "Learn what service design is and how you can use it with this 10 hour, fully remote training course"
 cover: "https://www.claragreo.com/static/img/img_1448.jpg"
+coversmall: "https://www.claragreo.com/static/img/img_1448_small.jpg"
 tags:
   - Training
 ---
