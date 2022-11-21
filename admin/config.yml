@@ -19,6 +19,8 @@ collections:
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Author", name: "author", widget: "string", default: "Anonymous" }
       - { label: "Summary", name: "summary", widget: "text" }
+      - { label: "Cover", name: "cover", widget: "string" } 
+      - { label: "Coversmall", name: "coversmall", widget: "string" } 
       - { label: "Tags", name: "tags", widget: "list", default: ["post"] }
       - { label: "Body", name: "body", widget: "markdown" }
   # Our pages e.g. About
