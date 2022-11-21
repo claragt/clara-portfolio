@@ -2,14 +2,14 @@
 title: Reflections on running service design training
 date: 2022-11-21T14:40:44.558Z
 author: Clara Greo and Ignacia Orellana
-cover: "https://www.claragreo.com/static/img/img_1643.jpg"
-coversmall: "https://www.claragreo.com/static/img/img_1643.jpg"
 summary: At the beginning of November, we ran the Introduction to Service Design
   in Government training course together for the first time as independent
   trainers. We had lots of fun, and we want to share some of the things we tried
   and what we learned.
+cover: https://www.claragreo.com/static/img/img_1643.jpg
+coversmall: https://www.claragreo.com/static/img/img_1643.jpg
 tags:
-  - training;service_design
+  - training
 ---
 At the beginning of November, we ran the [Introduction to Service Design in Government](https://www.claragreo.com/posts/introduction-to-service-design-in-government:-remote-training-course-(pound600-inc-vat)/) training course together for the first time as independent trainers. We had lots of fun, and we want to share some of the things we tried and what we learned.
 
