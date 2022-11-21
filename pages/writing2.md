@@ -14,7 +14,6 @@ Blog posts, articles and weeknotes.
 
 By Clara Greo and Ignacia Orellana
 
-
 [Clara’s UCD academy weeknotes](https://docs.google.com/document/d/1BcU3eVhWur_ww8a9P3u_M17HlZQeay-JuhR5zlLwIyQ/edit?usp=sharing)
 
 By Clara Greo
