@@ -21,27 +21,27 @@ Sometimes the course is run by service designers across government, like [Lisa](
 
 
 
-Real experience is important for trainers: domain expertise and of working in government doing service design is essential to running the course. People want to learn from real experience, hear how things apply in the real world and get advice about specific situations they are facing. 
+**Real experience is important for trainers:** domain expertise and of working in government doing service design is essential to running the course. People want to learn from real experience, hear how things apply in the real world and get advice about specific situations they are facing. 
 
 
 
-Learning from others is a core benefit of the course: we consistently receive feedback that participants love learning from other people on the course. We’ve found that it’s a big benefit to have people from different organisations or different teams on the same course. It’s great to share the challenges of advocating for UCD and service design in different service contexts, and to talk about different ways and tools for addressing problems. 
+**Learning from others is a core benefit of the course:** we consistently receive feedback that participants love learning from other people on the course. We’ve found that it’s a big benefit to have people from different organisations or different teams on the same course. It’s great to share the challenges of advocating for UCD and service design in different service contexts, and to talk about different ways and tools for addressing problems. 
 
 
 
-Building a network is valuable: people often exchange contacts on the last day of the course. The course isn’t just a space to learn and share, but also a place to expand your network of UCD minded folks across the public sector. We have a slack instance where we’ll be continuing to share and learn from  people who have attended the course over the years. 
+**Building a network is valuable:** people often exchange contacts on the last day of the course. The course isn’t just a space to learn and share, but also a place to expand your network of UCD minded folks across the public sector. We have a slack instance where we’ll be continuing to share and learn from  people who have attended the course over the years. 
 
 
 
-The course is useful for many different people: we’ve had many different disciplines and roles on the course, including designers, user research, content design, product management, delivery management, policy, business analyst, data architecture, and tech architecture. There has been a good mix of levels of seniority, departments, and locations across the UK.
+**The course is useful for many different people:** we’ve had many different disciplines and roles on the course, including designers, user research, content design, product management, delivery management, policy, business analyst, data architecture, and tech architecture. There has been a good mix of levels of seniority, departments, and locations across the UK.
 
 
 
-Most people book in groups: most bookings were in groups of 3 or 4 from one organisation. Even though we always mix the groups so people get the value of learning from other departments or disciplines, there is something about doing this course together as a team. We offer discounts for groups of 3 or more tickets. When the course was run inside the government (for free), we consistently had a 75% drop-out rate (despite having a waiting list of over 300 people for the course). There were no dropouts during this course.
+**Most people book in groups:** most bookings were in groups of 3 or 4 from one organisation. Even though we always mix the groups so people get the value of learning from other departments or disciplines, there is something about doing this course together as a team. We offer discounts for groups of 3 or more tickets. When the course was run inside the government (for free), we consistently had a 75% drop-out rate (despite having a waiting list of over 300 people for the course). There were no dropouts during this course.
 
 
 
-We were able to offer £1,300 in subsidised tickets for underrepresented groups: this was something that was very important for us to be able to do. We chose to prioritise groups who [we believe to be under-represented](https://designnotes.blog.gov.uk/2020/01/25/what-a-demographics-survey-told-us-about-the-diversity-of-our-design-team/) in the UK service design industry: Black, disabled, trans or not university educated people. For our future course, we’ve added people who are actively working in the climate space because we believe in supporting this work.
+**We were able to offer £1,300 in subsidised tickets for underrepresented groups:** this was something that was very important for us to be able to do. We chose to prioritise groups who [we believe to be under-represented](https://designnotes.blog.gov.uk/2020/01/25/what-a-demographics-survey-told-us-about-the-diversity-of-our-design-team/) in the UK service design industry: Black, disabled, trans or not university educated people. For our future course, we’ve added people who are actively working in the climate space because we believe in supporting this work.
 
 
 
@@ -63,25 +63,23 @@ Participants enjoyed the course and got a lot of value from it! They told us tha
 
 Here are some testimonials participants:
 
-Thoroughly recommend the course, I learnt so much, it was extremely valuable and I have already used one of the tools in a workshop this week in trying to understand the problem 😀
-
-Sumeara, user researcher at ONS
-
-
-
-“I got a real insight into the scope of the role of a service designer and how to approach projects with a service design mindset. I also learnt about some of the tools available to help teams work together to solve problems.
+> "Thoroughly recommend the course, I learnt so much, it was extremely valuable and I have already used one of the tools in a workshop this week in trying to understand the problem 😀"
+>
+> Sumeara, user researcher at ONS
 
 
 
-Clara and Ignacia were warm, engaging and knowledgeable facilitators. They managed to involve everyone in discussions and activities. I'll be looking out for other courses they run in the future. I cannot recommend the course highly enough!” 
+> “I got a real insight into the scope of the role of a service designer and how to approach projects with a service design mindset. I also learnt about some of the tools available to help teams work together to solve problems.
+>
+> Clara and Ignacia were warm, engaging and knowledgeable facilitators. They managed to involve everyone in discussions and activities. I'll be looking out for other courses they run in the future. I cannot recommend the course highly enough!” 
+>
+> Hannah Drysden, content designer
 
-Hannah Drysden, content designer
 
 
-
-‘This is a great introductory course to understanding Service Design in government delivered by Clara and Ignacia, who are both well versed in this space with many years of experience between them. It's immediately evident that both have much to offer and are passionate about Service Design and User Centred Design. The course format is especially valuable; allowing participants to learn about service design nuances across government through bite-sized activities and tips on how to champion service design. I really enjoyed participating and learning with and from others across government.’
-
-Hardeep Singh, aspiring Service Designer
+> "This is a great introductory course to understanding Service Design in government delivered by Clara and Ignacia, who are both well versed in this space with many years of experience between them. It's immediately evident that both have much to offer and are passionate about Service Design and User Centred Design. The course format is especially valuable; allowing participants to learn about service design nuances across government through bite-sized activities and tips on how to champion service design. I really enjoyed participating and learning with and from others across government."
+>
+> Hardeep Singh, aspiring Service Designer
 
 
 
@@ -97,4 +95,4 @@ It’s also being run by [Martin Jordan](https://twitter.com/Martin_Jordan) in G
 
 
 
-We’ll have future dates soon, so if you are interested [sign-up to our newsletter](https://buttondown.email/ucdtraining) and we’ll keep you posted.
+**We’ll have future dates soon, so if you are interested [sign-up to our newsletter](https://buttondown.email/ucdtraining) and we’ll keep you posted.**
