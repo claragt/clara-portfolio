@@ -10,6 +10,11 @@ Blog posts, articles and weeknotes.
 
 ### 2022
 
+[Reflections on running service design training](https://www.claragreo.com/posts/reflections-on-running-service-design-training/)
+
+By Clara Greo and Ignacia Orellana
+
+
 [Clara’s UCD academy weeknotes](https://docs.google.com/document/d/1BcU3eVhWur_ww8a9P3u_M17HlZQeay-JuhR5zlLwIyQ/edit?usp=sharing)
 
 By Clara Greo
