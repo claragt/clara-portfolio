@@ -9,6 +9,9 @@ summary: At the beginning of November, we ran the Introduction to Service Design
 tags:
   - training;service_design
 ---
+At the beginning of November, we ran the [Introduction to Service Design in Government](https://www.claragreo.com/posts/introduction-to-service-design-in-government:-remote-training-course-(pound600-inc-vat)/) training course together for the first time as independent trainers. We had lots of fun, and we want to share some of the things we tried and what we learned.
+
+\
 This course was created by the [user-centred design communities (UCD) team](https://designnotes.blog.gov.uk/2021/04/01/reflections-on-the-user-centred-design-communities-team/), which was part of the [Government Digital Service (GDS)](https://www.gov.uk/government/organisations/government-digital-service/about). The team worked to advocate for user-centred design in government, increase the UCD capability of the public sector and enable teams throughout government to deliver good services for users. The UCD team ran the course 27 times and trained over 700 civil servants and public sector workers. Unfortunately, the UCD team was disbanded in 2020 and there’s no longer a team regularly running and supporting this course from inside the UK government.  
 
 
