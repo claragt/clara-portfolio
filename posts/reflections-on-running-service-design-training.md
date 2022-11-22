@@ -24,7 +24,7 @@ Sometimes the course is run by service designers across government, like [Lisa](
 
 ## What we learned 
 
-**Real experience is important for trainers:** domain expertise and of working in government doing service design is essential to running the course. People want to learn from real experience, hear how things apply in the real world and get advice about specific situations they are facing. 
+**Real experience is important for trainers:** domain expertise of working in government doing service design is essential to running the course. People want to learn from real experience, hear how things apply in the real world and get advice about specific situations they are facing. 
 
 **Learning from others is a core benefit of the course:** we consistently receive feedback that participants love learning from other people on the course. We’ve found that it’s a big benefit to have people from different organisations or different teams on the same course. It’s great to share the challenges of advocating for UCD and service design in different service contexts, and to talk about different ways and tools for addressing problems. 
 
