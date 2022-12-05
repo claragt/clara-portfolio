@@ -3,14 +3,16 @@ title: "Introduction to service design in Government: remote training course
   (£600 inc VAT)"
 date: 2022-11-10T00:35:28.547Z
 author: Clara
-summary: "Learn what service design is and how you can use it with this 10 hour, fully remote training course"
-cover: "https://www.claragreo.com/static/img/img_1448.jpg"
-coversmall: "https://www.claragreo.com/static/img/img_1448_small.jpg"
+summary: Learn what service design is and how you can use it with this 10 hour,
+  fully remote training course
+cover: https://www.claragreo.com/static/img/img_1448.jpg
+coversmall: https://www.claragreo.com/static/img/img_1448_small.jpg
 tags:
   - Training
 ---
+**Next dates:** 7-10th February, 2023 
 
-**W﻿hen:** 6th December to 9th December, 2022
+**Following dates:** March 2023 (TBC)
 
 ![A photo over the shoulder of a person, holding a pen, drawing a mind map or sketch notes on a page, with "Intro to service design" written in the middle. The person has olive skin and wavy brown hair. ](/static/img/img_1448.jpg)
 
@@ -20,13 +22,13 @@ This is an introductory course into service design in Government. It's an 10 hou
 
 # W﻿hen
 
-**Part 1:** Tuesday 6 Dec 9:30 -12:00 pm
+**Part 1:** Tuesday 7 Feb 10:00 -12:30 pm
 
-**Part 2:** Wednesday 7 Dec 9:30 -12:00 pm + 30 mins homework
+**Part 2:** Wednesday 8 Feb 10:00 -12:30 pm + 30 mins homework
 
-**Part 3:** Thursday 8 Dec 9:30 -12:00 pm + 30 mins homework
+**Part 3:** Thursday 9 Feb 10:00 -12:30 pm + 30 mins homework
 
-**Part 4:** Friday 9 Dec 9:30 -12:00 pm
+**Part 4:** Friday 10 Feb 10:00 -12:30 pm
 
 # Book tickets here
 
