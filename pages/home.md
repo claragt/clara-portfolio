@@ -17,7 +17,7 @@ eleventyNavigation:
 
 <a href="https://www.claragreo.com/posts/introduction-to-service-design-in-government:-remote-training-course-(pound600-inc-vat)/">Introduction to service design in Government: remote training course (£600 inc VAT)</a>
 
-<p>6th December to 9th December, 2022
+<p>7th-10th February, 2023 
 
 </div>
 
