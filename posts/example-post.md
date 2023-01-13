@@ -30,9 +30,9 @@ This is an introductory course into service design in Government. It's an 10 hou
 
 **Part 4:** Friday 10 Feb 10:00 -12:30 pm
 
-# Book tickets here
+# [Book tickets here](https://www.tickettailor.com/events/ignaciaandclara/833939)
 
-If you are buying an individual ticket, get in touch [via email](mailto:ucdtrainingcourse@gmail.com) and we’ll send you a link to pay using Stripe. Individual tickets cost £500 + VAT each (£600 inc VAT).
+If you are buying an individual ticket, get in touch [via email](mailto:ucdtrainingcourse@gmail.com)Individual tickets cost £500 + VAT each (£600 inc VAT).
 
 Tickets are discounted if you book 3 or more tickets for colleagues in the same organisation - £450 + VAT each. [Get in touch to get a quote for group tickets.](mailto:ucdtrainingcourse@gmail.com)
 
