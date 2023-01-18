@@ -4,7 +4,8 @@ title: "Introduction to service design in Government: remote training course
 date: 2022-11-10T00:35:28.547Z
 author: Clara
 summary: Learn what service design is and how you can use it with this 10 hour,
-  fully remote training course
+  fully remote training course for designers, researchers, product people,
+  policy people, delivery people, BAs, data, developers and technologists
 cover: https://www.claragreo.com/static/img/img_1448.jpg
 coversmall: https://www.claragreo.com/static/img/img_1448_small.jpg
 tags:
@@ -12,75 +13,101 @@ tags:
 ---
 **Next dates:** 7-10th February, 2023 
 
-**Following dates:** March 2023 (TBC)
+[B﻿ook tickets for February](https://app.tickettailor.com/events/ignaciaandclara/833939#)
+
+**Following dates**: 18 - 26 May, 2023 
+
+[Book tickets for May](https://buytickets.at/ignaciaandclara/837350)
 
 ![A photo over the shoulder of a person, holding a pen, drawing a mind map or sketch notes on a page, with "Intro to service design" written in the middle. The person has olive skin and wavy brown hair. ](/static/img/img_1448.jpg)
 
+\
 **Where:** Online, on Zoom
 
 This is an introductory course into service design in Government. It's an 10 hour course - 4 x 2.5 hour sessions over 4 days. We will run it fully remote (online).
 
-# W﻿hen
+This course is relevant for designers, researchers, product people, policy people, delivery people, BAs, data, developers and technologists - anyone working in digital products and services in Government.
+
+
+
+## C﻿ourse dates
+
+### **February 2023** 
 
 **Part 1:** Tuesday 7 Feb 10:00 -12:30 pm
 
-**Part 2:** Wednesday 8 Feb 10:00 -12:30 pm + 30 mins homework
+**Part 2:** Wednesday 8 Feb 10:00 -12:30 pm + 30 mins homework
 
-**Part 3:** Thursday 9 Feb 10:00 -12:30 pm + 30 mins homework
+**Part 3:** Thursday 9 Feb 10:00 -12:30 pm + 30 mins homework
 
 **Part 4:** Friday 10 Feb 10:00 -12:30 pm
 
-# [Book tickets here](https://www.tickettailor.com/events/ignaciaandclara/833939)
+[B﻿ook tickets for February](https://app.tickettailor.com/events/ignaciaandclara/833939#)
+
+
+
+### **May 2023**
+
+**Part 1:** Thursday 18 May 9:30 -12:00 pm 
+
+**Part 2:** Friday 19 May 9:30 -12:00 pm + 30 mins homework
+
+**Part 3:** Thursday 25 May 9:30 -12:00 pm + 30 mins homework
+
+**Part 4:** Friday 26 May 9:30 -12:00 pm
+
+[Book tickets for May](https://buytickets.at/ignaciaandclara/837350)
+
+
+
+## P﻿rice
 
 Individual tickets cost £500 + VAT each (£600 inc VAT).
 
-Tickets are discounted if you book 3 or more tickets for colleagues in the same organisation - £450 + VAT each. [Get in touch to get a quote for group tickets.](mailto:ucdtrainingcourse@gmail.com)
+Tickets are discounted if you book 3 or more tickets for colleagues in the same organisation - £450 + VAT each. [](mailto:ucdtrainingcourse@gmail.com)
 
-3 tickets: £1,350 + £270 VAT = £1,620 inc VAT
-
-4 tickets: £1,800 + £360 VAT = £2,160 inc VAT
-
-5 tickets: £2,250 + £450 VAT = £2,700 inc VAT
-
-We can also take payment by purchase order & invoice for an extra fee, get in touch with us at [ucdtrainingcourse@gmail.com](mailto:ucdtrainingcourse@gmail.com) to pay this way.
+> 3 tickets: £1,350 + £270 VAT = £1,620 inc VAT
+>
+> 4 tickets: £1,800 + £360 VAT = £2,160 inc VAT
+>
+> 5 tickets: £2,250 + £450 VAT = £2,700 inc VAT
+>
+> We can also take payment by purchase order & invoice for an extra fee, get in touch with us at [ucdtrainingcourse@gmail.com](mailto:ucdtrainingcourse@gmail.com) to pay this way.
 
 We have a [template justification letter to attend](https://docs.google.com/document/d/1NJGJYjOQ9SwhtcPQbW55NSsNVGB-d2sONouFnQ2DiDw/edit?usp=sharing), which you're welcome to use.
 
 We have a few subsidised or free tickets available. If you’re Black, disabled, trans or not university educated, or if you’re working in the climate space - get in touch [ucdtrainingcourse@gmail.com](mailto:ucdtrainingcourse@gmail.com)
 
+
+
 # What you’ll learn
 
-* What is a service?
-* What is service design?
-* What are the benefits of service design?
-* What does a service designer do?
-* How does a service designer work with other roles?
-
-## By the end of the course you will be able to:
-
-* Understand how a service designers’ focus differs from other members of the team
-* Use a service design tool appropriately by researching, finding and applying the right tool for a problem
-* Understand how a service designer would approach framing a problem
-* Use a journey map to analyse a service
+* What a service is and what service design is
+* The benefits of service design
+* What a service designer does
+* How is a service designers’ approach different from other team members
+* How to find, use and apply different service design tools
+* How to frame a problem
+* How to use a journey map to analyse a service
+* How service design applies to your work
 
 The training contains some theory and lots of interactive exercises and activities (individual, in pairs and in groups). You'll meet lots of people from many different roles and organisations in government. You do not need to prepare anything.
 
 # Who it’s for
 
-This course is for anyone who wants to learn more about service design in the public sector in the UK. You might be working with a service designer, commissioning service design or considering service design as part of your own work. You could be working in or with a central government department, local government, NHS, Parliament, arms-length body or regulator.
+This course is for anyone who wants to learn more about service design in the public sector in the UK. You might not have a service designer in your team but you want to learn how to better do service design in your team.
 
-This course will help you:
+You might be a designer new to government, or a product, delivery, tech, user research or data person - this course will help any team member to get an understanding of service design and learn practical tools to apply to their work.
 
-* Understand what service design is
-* Talk about service design
-* Understand how service design applies to your work
-* Take a user-centred and service approach to your work
+This course is aimed at people working in central government department, local government, NHS, Parliament, arms-length body or regulator. Or people who want to move into the public sector.
 
-This course is not for people who are already service designers, and it will not make you a service designer.
+This course will not make you a service designer but it will give you practical tools to apply service design thinking to your work.
 
 You must be able to attend all 4 parts of the course, including homework.
 
 Breastfeeding or chestfeeding in the course is welcome, and Clara is likely to be breastfeeding during the course.
+
+
 
 # About the trainers
 
