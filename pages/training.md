@@ -8,7 +8,7 @@ eleventyNavigation:
 ---
 <div style="padding: 20px; background-color: #d3e3d5; border-radius: 7px">
 
-<header style="margin-top: -20px;">
+<header style="margin-top: -50px;">
 
 ## Upcoming courses:
 
