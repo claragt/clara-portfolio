@@ -8,13 +8,19 @@ eleventyNavigation:
 ---
 <div style="padding: 20px; background-color: #d3e3d5; border-radius: 7px">
 
-<strong>Upcoming course:</strong>
+## Upcoming courses:
 
-<a href="https://www.claragreo.com/posts/introduction-to-service-design-in-government:-remote-training-course-(pound600-inc-vat)/">Introduction to service design in Government: remote training course (£600 inc VAT)</a>
+**Introduction to service design in Government: remote training course (£600 inc VAT)**
 
-<p>7th-10th February, 2023
+<a href="https://www.tickettailor.com/events/ignaciaandclara/833939/">7-10th February, 2023</a>
 
-</div>
+<a href="https://www.tickettailor.com/events/ignaciaandclara/837350/">18-26th May, 2023</a>
+
+**Writing great training** 
+
+<a href="https://www.tickettailor.com/events/claragreo/839772">17-31 March, 2023</a>
+
+<p></div>
 <br />
 
 I love running training and I’m pretty good at it. 
