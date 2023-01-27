@@ -8,7 +8,9 @@ eleventyNavigation:
 ---
 <div style="padding: 20px; background-color: #d3e3d5; border-radius: 7px">
 
-### Upcoming courses:
+<header style="margin-top: -20px;">
+
+## Upcoming courses:
 
 **Introduction to service design in Government: remote training course (£600 inc VAT)**
 
