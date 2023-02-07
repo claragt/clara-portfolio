@@ -11,11 +11,7 @@ coversmall: https://www.claragreo.com/static/img/img_1448_small.jpg
 tags:
   - Training
 ---
-**Next dates:** 7-10th February, 2023 
-
-[B﻿ook tickets for February](https://app.tickettailor.com/events/ignaciaandclara/833939#)
-
-**Following dates**: 18 - 26 May, 2023 
+**Next dates:** 18 - 26 May, 2023 
 
 [Book tickets for May](https://buytickets.at/ignaciaandclara/837350)
 
@@ -27,8 +23,6 @@ tags:
 This is an introductory course into service design in Government. It's an 10 hour course - 4 x 2.5 hour sessions over 4 days. We will run it fully remote (online).
 
 This course is relevant for designers, researchers, product people, policy people, delivery people, BAs, data, developers and technologists - anyone working in digital products and services in Government.
-
-
 
 ## C﻿ourse dates
 
@@ -44,8 +38,6 @@ This course is relevant for designers, researchers, product people, policy peopl
 
 [B﻿ook tickets for February](https://app.tickettailor.com/events/ignaciaandclara/833939#)
 
-
-
 ### **May 2023**
 
 **Part 1:** Thursday 18 May 9:30 -12:00 pm 
@@ -57,8 +49,6 @@ This course is relevant for designers, researchers, product people, policy peopl
 **Part 4:** Friday 26 May 9:30 -12:00 pm
 
 [Book tickets for May](https://buytickets.at/ignaciaandclara/837350)
-
-
 
 ## P﻿rice
 
@@ -77,8 +67,6 @@ Tickets are discounted if you book 3 or more tickets for colleagues in the same 
 We have a [template justification letter to attend](https://docs.google.com/document/d/1NJGJYjOQ9SwhtcPQbW55NSsNVGB-d2sONouFnQ2DiDw/edit?usp=sharing), which you're welcome to use.
 
 We have a few subsidised or free tickets available. If you’re Black, disabled, trans or not university educated, or if you’re working in the climate space - get in touch [ucdtrainingcourse@gmail.com](mailto:ucdtrainingcourse@gmail.com)
-
-
 
 # What you’ll learn
 
@@ -106,8 +94,6 @@ This course will not make you a service designer but it will give you practical 
 You must be able to attend all 4 parts of the course, including homework.
 
 Breastfeeding or chestfeeding in the course is welcome, and Clara is likely to be breastfeeding during the course.
-
-
 
 # About the trainers
 
