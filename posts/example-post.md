@@ -26,27 +26,12 @@ This course is relevant for designers, researchers, product people, policy peopl
 
 ## C﻿ourse dates
 
-### **February 2023** 
-
-**Part 1:** Tuesday 7 Feb 10:00 -12:30 pm
-
-**Part 2:** Wednesday 8 Feb 10:00 -12:30 pm + 30 mins homework
-
-**Part 3:** Thursday 9 Feb 10:00 -12:30 pm + 30 mins homework
-
-**Part 4:** Friday 10 Feb 10:00 -12:30 pm
-
-[B﻿ook tickets for February](https://app.tickettailor.com/events/ignaciaandclara/833939#)
-
 ### **May 2023**
 
-**Part 1:** Thursday 18 May 9:30 -12:00 pm 
-
-**Part 2:** Friday 19 May 9:30 -12:00 pm + 30 mins homework
-
-**Part 3:** Thursday 25 May 9:30 -12:00 pm + 30 mins homework
-
-**Part 4:** Friday 26 May 9:30 -12:00 pm
+**Part 1:** Thursday 18 May 1:00 -3:30 pm\
+**Part 2:** Friday 19 May 1:00 -3:30 pm + 30 mins homework\
+**Part 3:** Thursday 25 May 1:00 -3:30 pm + 30 mins homework\
+**Part 4:** Friday 26 May 1:00 -3:30 pm
 
 [Book tickets for May](https://buytickets.at/ignaciaandclara/837350)
 
