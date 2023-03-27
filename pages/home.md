@@ -21,14 +21,10 @@ eleventyNavigation:
 
 <a href="https://www.tickettailor.com/events/ignaciaandclara/837350/">18-26th May, 2023</a>
 
-**Writing great training** 
-
-<a href="https://www.tickettailor.com/events/claragreo/839772">17-31 March, 2023</a>
-
 <p></div>
 <br />
 
-I’m a **service designer** and **user-centred design practitioner**. I try to bring **equity and justice** into public sector digital transformation. 
+I’m a **service designer** and **user-centred design practitioner and leader**. I try to bring **equity and justice** into public sector digital transformation. 
 
 I **build capability** in user-centred design through **training** and **community-based education**. 
 
