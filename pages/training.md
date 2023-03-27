@@ -16,10 +16,6 @@ eleventyNavigation:
 
 <a href="https://www.tickettailor.com/events/ignaciaandclara/837350/">18-26th May, 2023</a>
 
-**Writing great training** 
-
-<a href="https://www.tickettailor.com/events/claragreo/839772">17-31 March, 2023</a>
-
 <p></div>
 <br />
 
