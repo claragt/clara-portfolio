@@ -21,7 +21,7 @@ eleventyNavigation:
 
 <a href="https://www.tickettailor.com/events/ignaciaandclara/943132">12-17 Oct, 2023</a>
 
-#### Making the financial case for Service Design: remote training short course 
+#### Making the financial case for Service Design: remote training short course (£350 ex VAT)
 
 <a href="https://www.tickettailor.com/events/ignaciaandclara/943289">Fri 22 Sep 2023 12:00 PM - 2:30 BST</a>
 
