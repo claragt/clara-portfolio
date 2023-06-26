@@ -17,9 +17,13 @@ eleventyNavigation:
 
 ## Upcoming courses:
 
-**Introduction to service design in Government: remote training course (£600 inc VAT)**
+**Introduction to service design in Government: remote training course (£600 ex VAT)**
 
-<a href="https://www.tickettailor.com/events/ignaciaandclara/837350/">18-26th May, 2023</a>
+<a href="<https://www.tickettailor.com/events/ignaciaandclara/943132>">12-17 Oct, 2023</a>
+
+#### Making the financial case for Service Design: remote training short course 
+
+<a href="https://www.tickettailor.com/events/ignaciaandclara/943289">Fri 22 Sep 2023 12:00 PM - 2:30 BST</a>
 
 <p></div>
 <br />
