@@ -28,10 +28,10 @@ This course is relevant for designers, researchers, product people, policy peopl
 
 ### Jan 2024
 
-Part 1: Thursday 18 Jan 10:00am -12:30pm GMT\
-Part 2: Friday 19 Jan 10:00am -12:30pm GMT + 30 mins homework\
-Part 3: Monday 22 Jan 10:00am -12:30pm GMT + 30 mins homework\
-Part 4: Tuesday 23 Jan 10:00am -12:30pm GMT
+**Part 1:** Thursday 18 Jan 10:00am -12:30pm GMT\
+**Part 2:** Friday 19 Jan 10:00am -12:30pm GMT + 30 mins homework\
+**Part 3:** Monday 22 Jan 10:00am -12:30pm GMT + 30 mins homework\
+**Part 4:** Tuesday 23 Jan 10:00am -12:30pm GMT
 
 [Book tickets for Jan](https://www.tickettailor.com/events/ignaciaandclara/1039808?)
 
