@@ -6,7 +6,7 @@ eleventyNavigation:
   order: 2
   key: Work
 ---
-I have been a user-centred researcher and designer for over 17 years. 
+I have been a user-centred researcher and designer for over 20 years. 
 
 I’ve worked in the public and private sector, in agency and internal roles, and in industries including media, finance, banking, ecommerce and in the 3rd sector.
 
