@@ -11,7 +11,7 @@ coversmall: https://www.claragreo.com/static/img/img_1448_small.jpg
 tags:
   - Training
 ---
-**Next dates:** 18 - 26 May, 2023 
+**Next dates:** 18 - 23 Jan, 2024 
 
 [Book tickets for May](https://buytickets.at/ignaciaandclara/837350)
 
