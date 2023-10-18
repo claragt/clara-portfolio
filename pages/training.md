@@ -40,7 +40,7 @@ However, I believe that supporting and investing in community is the best way to
 
 #### Service design
 
-* [Introduction to service design](https://www.claragreo.com/posts/introduction-to-service-design-in-government:-remote-training-course-(pound600-inc-vat)/) (1 day course)
+* [Introduction to service design](https://www.claragreo.com/posts/introduction-to-service-design-in-government:-remote-training-course-(pound600-ex-vat)/) (1 day course)
 * Service design in practice (2 day course)
 * Service mapping practitioner level course (1 day course)
 * Trauma informed research (2 hour workshop)
