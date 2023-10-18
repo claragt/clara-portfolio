@@ -13,7 +13,7 @@ tags:
 ---
 **Next dates:** 18 - 23 Jan, 2024 
 
-[Book tickets for May](https://buytickets.at/ignaciaandclara/837350)
+[Book tickets for Jan](https://www.tickettailor.com/events/ignaciaandclara/1039808?)
 
 ![A photo over the shoulder of a person, holding a pen, drawing a mind map or sketch notes on a page, with "Intro to service design" written in the middle. The person has olive skin and wavy brown hair. ](/static/img/img_1448.jpg)
 
