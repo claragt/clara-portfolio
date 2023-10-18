@@ -1,6 +1,6 @@
 ---
 title: "Introduction to service design in Government: remote training course
-  (£600 inc VAT)"
+  (£600 ex VAT)"
 date: 2022-11-10T00:35:28.547Z
 author: Clara
 summary: Learn what service design is and how you can use it with this 10 hour,
@@ -26,27 +26,29 @@ This course is relevant for designers, researchers, product people, policy peopl
 
 ## C﻿ourse dates
 
-### **May 2023**
+### Jan 2024
 
-**Part 1:** Thursday 18 May 1:00 -3:30 pm\
-**Part 2:** Friday 19 May 1:00 -3:30 pm + 30 mins homework\
-**Part 3:** Thursday 25 May 1:00 -3:30 pm + 30 mins homework\
-**Part 4:** Friday 26 May 1:00 -3:30 pm
+Part 1: Thursday 18 Jan 10:00am -12:30pm GMT\
+Part 2: Friday 19 Jan 10:00am -12:30pm GMT + 30 mins homework\
+Part 3: Monday 22 Jan 10:00am -12:30pm GMT + 30 mins homework\
+Part 4: Tuesday 23 Jan 10:00am -12:30pm GMT
 
-[Book tickets for May](https://buytickets.at/ignaciaandclara/837350)
+[Book tickets for Jan](https://www.tickettailor.com/events/ignaciaandclara/1039808?)
 
 ## P﻿rice
 
-Individual tickets cost £500 + VAT each (£600 inc VAT).
+Individual tickets cost £600 + VAT each (£720 inc VAT).
 
-Tickets are discounted if you book 3 or more tickets for colleagues in the same organisation - £450 + VAT each. [](mailto:ucdtrainingcourse@gmail.com)
+Tickets are discounted if you book 3 or more tickets for colleagues in the same organisation - £540 + VAT each. Get in touch to get a quote for group tickets.﻿
 
-> 3 tickets: £1,350 + £270 VAT = £1,620 inc VAT
->
-> 4 tickets: £1,800 + £360 VAT = £2,160 inc VAT
->
-> 5 tickets: £2,250 + £450 VAT = £2,700 inc VAT
->
+3 tickets: £1,620.00 + £324.00 VAT = £1,944 inc VAT
+
+4 tickets: £2,160.00 + £432.00 VAT = £2, 592 inc VAT
+
+5 tickets: £2,700.00 + £540.00 VAT = £3,240 inc VAT
+
+6 tickets: £3,240.00 + £648.00 VAT = £3, 888 inc VAT
+
 > We can also take payment by purchase order & invoice for an extra fee, get in touch with us at [ucdtrainingcourse@gmail.com](mailto:ucdtrainingcourse@gmail.com) to pay this way.
 
 We have a [template justification letter to attend](https://docs.google.com/document/d/1NJGJYjOQ9SwhtcPQbW55NSsNVGB-d2sONouFnQ2DiDw/edit?usp=sharing), which you're welcome to use.
