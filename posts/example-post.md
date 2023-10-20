@@ -11,9 +11,11 @@ coversmall: https://www.claragreo.com/static/img/img_1448_small.jpg
 tags:
   - Training
 ---
-**Next dates:** 18 - 23 Jan, 2024 
+**January dates:** 18-23 Jan 2024  [Book tickets for Jan](https://www.tickettailor.com/events/ignaciaandclara/1039808?)
 
-[Book tickets for Jan](https://www.tickettailor.com/events/ignaciaandclara/1039808?)
+**April dates:** 4-12 April 2024  [Book tickets for April](https://www.tickettailor.com/events/ignaciaandclara/1042652)
+
+
 
 ![A photo over the shoulder of a person, holding a pen, drawing a mind map or sketch notes on a page, with "Intro to service design" written in the middle. The person has olive skin and wavy brown hair. ](/static/img/img_1448.jpg)
 
@@ -34,6 +36,17 @@ This course is relevant for designers, researchers, product people, policy peopl
 **Part 4:** Tuesday 23 Jan 10:00am -12:30pm GMT
 
 [Book tickets for Jan](https://www.tickettailor.com/events/ignaciaandclara/1039808?)
+
+### April 2024
+
+**Part 1:** Thursday 4 April 11:00am -1:30pm GMT\
+**Part 2:** Friday 5 April 11:00am -1:30pm GMT + 30 mins homework\
+**Part 3:** Thursday 11 April 11:00am -1:30pm GMT + 30 mins homework\
+**Part 4:** Friday 12 April 11:00am -1:30pm GMT
+
+[Book tickets for April](https://www.tickettailor.com/events/ignaciaandclara/1042652)
+
+
 
 ## P﻿rice
 
