@@ -15,8 +15,6 @@ tags:
 
 **April dates:** 4-12 April 2024  [Book tickets for April](https://www.tickettailor.com/events/ignaciaandclara/1042652)
 
-
-
 ![A photo over the shoulder of a person, holding a pen, drawing a mind map or sketch notes on a page, with "Intro to service design" written in the middle. The person has olive skin and wavy brown hair. ](/static/img/img_1448.jpg)
 
 \
@@ -46,8 +44,6 @@ This course is relevant for designers, researchers, product people, policy peopl
 
 [Book tickets for April](https://www.tickettailor.com/events/ignaciaandclara/1042652)
 
-
-
 ## P﻿rice
 
 Individual tickets cost £600 + VAT each (£720 inc VAT).
@@ -66,7 +62,9 @@ Tickets are discounted if you book 3 or more tickets for colleagues in the same 
 
 We have a [template justification letter to attend](https://docs.google.com/document/d/1NJGJYjOQ9SwhtcPQbW55NSsNVGB-d2sONouFnQ2DiDw/edit?usp=sharing), which you're welcome to use.
 
-We have a few subsidised or free tickets available. If you’re Black, disabled, trans or not university educated, or if you’re working in the climate space - get in touch [ucdtrainingcourse@gmail.com](mailto:ucdtrainingcourse@gmail.com)
+We have a few subsidised or free tickets available. If you’re Black, disabled, trans, First Nations, not university educated, or if you’re working in the climate space - get in touch ucdtrainingcourse@gmail.com﻿
+
+
 
 # What you’ll learn
 
