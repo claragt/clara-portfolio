@@ -44,6 +44,8 @@ This course is relevant for designers, researchers, product people, policy peopl
 
 [Book tickets for April](https://www.tickettailor.com/events/ignaciaandclara/1042652)
 
+G﻿et in touch to talk about in-house training. 
+
 ## P﻿rice
 
 Individual tickets cost £600 + VAT each (£720 inc VAT).
@@ -63,8 +65,6 @@ Tickets are discounted if you book 3 or more tickets for colleagues in the same 
 We have a [template justification letter to attend](https://docs.google.com/document/d/1NJGJYjOQ9SwhtcPQbW55NSsNVGB-d2sONouFnQ2DiDw/edit?usp=sharing), which you're welcome to use.
 
 We have a few subsidised or free tickets available. If you’re Black, disabled, trans, First Nations, not university educated, or if you’re working in the climate space - get in touch ucdtrainingcourse@gmail.com﻿
-
-
 
 # What you’ll learn
 
