@@ -46,6 +46,8 @@ This course is relevant for designers, researchers, product people, policy peopl
 
 G﻿et in touch to talk about in-house training. 
 
+
+
 ## P﻿rice
 
 Individual tickets cost £600 + VAT each (£720 inc VAT).
