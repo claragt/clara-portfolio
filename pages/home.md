@@ -19,7 +19,9 @@ eleventyNavigation:
 
 **Introduction to service design in Government: remote training course (£600 ex VAT)**
 
-**[18 - 23 Jan, 2024](https://www.tickettailor.com/events/ignaciaandclara/1039808?)[4 - 12 April, 2024](https://www.tickettailor.com/events/ignaciaandclara/1042652?)**
+**[18 - 23 Jan, 2024](https://www.tickettailor.com/events/ignaciaandclara/1039808?)**
+
+**[4 - 12 April, 2024](https://www.tickettailor.com/events/ignaciaandclara/1042652?)**
 
 <p></div>
 <br />
