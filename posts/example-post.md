@@ -13,7 +13,7 @@ tags:
 ---
 **January dates:** 18-23 Jan 2024  [Book tickets for Jan](https://www.tickettailor.com/events/ignaciaandclara/1039808?)
 
-**April dates:** 4-12 April 2024  [Book tickets for April](https://www.tickettailor.com/events/ignaciaandclara/1042652)
+**April dates:** 4-12 April 2024  [Book tickets for April](https://www.tickettailor.com/events/ignaciaandclara/1042652?)
 
 ![A photo over the shoulder of a person, holding a pen, drawing a mind map or sketch notes on a page, with "Intro to service design" written in the middle. The person has olive skin and wavy brown hair. ](/static/img/img_1448.jpg)
 
@@ -45,8 +45,6 @@ This course is relevant for designers, researchers, product people, policy peopl
 [Book tickets for April](https://www.tickettailor.com/events/ignaciaandclara/1042652)
 
 G﻿et in touch to talk about in-house training. 
-
-
 
 ## P﻿rice
 
