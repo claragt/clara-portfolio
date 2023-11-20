@@ -17,15 +17,15 @@ eleventyNavigation:
 
 ## Upcoming courses:
 
-**[Introduction to service design in Government](https://www.claragreo.com/posts/introduction-to-service-design-in-government:-remote-training-course-(pound600-ex-vat)/): remote training course (£600 ex VAT)**
+**[Introduction to service design in Government](https://www.claragreo.com/posts/introduction-to-service-design-in-government:-remote-training-course-(pound600-ex-vat)/) - 10 hr, remote training course (£600 ex VAT)** 
 
 **[18 - 23 Jan, 2024](https://www.tickettailor.com/events/ignaciaandclara/1039808?)**
 
-**[4 - 12 April, 2024](https://www.tickettailor.com/events/ignaciaandclara/1042652?)**
+[](https://www.tickettailor.com/events/ignaciaandclara/1039808?)**[4 - 12 April, 2024](https://www.tickettailor.com/events/ignaciaandclara/1042652?)**
 
 <br />
 
-**[Power, privilege and equity: Designing and building services and products](https://buytickets.at/claragreo/1067659)   (£450 ex VAT)**
+**[Power, privilege and equity: Designing and building services and products](https://buytickets.at/claragreo/1067659)   - 8 hour, remote training course (£450 ex VAT)**
 
 **[13 - 16 Feb, 2024](https://buytickets.at/claragreo/1067659)**
 
