@@ -20,7 +20,7 @@ eleventyNavigation:
 
 <br />
 
-**Power, privilege and equity: Designing and building services and products  - (£450 ex VAT)**
+**[Power, privilege and equity: Designing and building services and products](https://buytickets.at/claragreo/1067659)  - (£450 ex VAT)**
 
 **[13 - 16 Feb, 2024](https://buytickets.at/claragreo/1067659)**
 
