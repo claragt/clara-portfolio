@@ -23,6 +23,16 @@ eleventyNavigation:
 
 **[4 - 12 April, 2024](https://www.tickettailor.com/events/ignaciaandclara/1042652?)**
 
+<br />
+
+**Power, privilege and equity: Designing and building services and products  - (£450 ex VAT)**
+
+**[13 - 16 Feb, 2024](https://buytickets.at/claragreo/1067659)**
+
+
+
+
+
 <p></div>
 <br />
 
