@@ -21,7 +21,7 @@ eleventyNavigation:
 
 **[18 - 23 Jan, 2024](https://www.tickettailor.com/events/ignaciaandclara/1039808?)**
 
-[](https://www.tickettailor.com/events/ignaciaandclara/1039808?)**[4 - 12 April, 2024](https://www.tickettailor.com/events/ignaciaandclara/1042652?)**
+**[21-26 March, 2024](https://www.tickettailor.com/events/ignaciaandclara/1042652?)**
 
 <br />
 
