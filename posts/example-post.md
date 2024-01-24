@@ -11,9 +11,11 @@ coversmall: https://www.claragreo.com/static/img/img_1448_small.jpg
 tags:
   - Training
 ---
-**January dates:** 18-23 Jan 2024  [Book tickets for Jan](https://www.tickettailor.com/events/ignaciaandclara/1039808?)
-
 **March dates:** 21-26 March 2024  [Book tickets for March](https://www.tickettailor.com/events/ignaciaandclara/1042652)
+
+**May dates**: 16-21 May 2024 [Book tickets for May](https://www.tickettailor.com/events/ignaciaandclara/1124372?)
+
+
 
 ![A photo over the shoulder of a person, holding a pen, drawing a mind map or sketch notes on a page, with "Intro to service design" written in the middle. The person has olive skin and wavy brown hair. ](/static/img/img_1448.jpg)
 
@@ -26,15 +28,6 @@ This course is relevant for designers, researchers, product people, policy peopl
 
 ## C﻿ourse dates
 
-### Jan 2024
-
-**Part 1:** Thursday 18 Jan 10:00am -12:30pm GMT\
-**Part 2:** Friday 19 Jan 10:00am -12:30pm GMT + 30 mins homework\
-**Part 3:** Monday 22 Jan 10:00am -12:30pm GMT + 30 mins homework\
-**Part 4:** Tuesday 23 Jan 10:00am -12:30pm GMT
-
-[Book tickets for Jan](https://www.tickettailor.com/events/ignaciaandclara/1039808?)
-
 ### March 2024
 
 **Part 1:** Thursday 21 March 10:00am -12:30pm GMT\
@@ -44,6 +37,17 @@ This course is relevant for designers, researchers, product people, policy peopl
 
 [Book tickets for March](https://www.tickettailor.com/events/ignaciaandclara/1042652)
 
+### May 2024
+
+**Part 1:** Thursday 16 May 12pm -3pm* GMT\
+**Part 2:** Friday 17 May 12pm -3pm* GMT + 30 mins homework\
+**Part 3:** Monday 20 May 12pm -3pm* GMT + 30 mins homework\
+**Part 4:** Tuesday 21 May 12pm -3pm* GMT
+
+\*including 30 min lunch break at 1pm
+
+[Book tickets for May](https://www.tickettailor.com/events/ignaciaandclara/1124372?)
+
 
 
 G﻿et in touch to talk about in-house training. 
@@ -52,17 +56,9 @@ G﻿et in touch to talk about in-house training.
 
 Individual tickets cost £600 + VAT each (£720 inc VAT).
 
-Tickets are discounted if you book 3 or more tickets for colleagues in the same organisation - £540 + VAT each. Get in touch to get a quote for group tickets.﻿
+We offer a 10% discount if you purchase 3 or more tickets for a group of colleagues from the same workplace, and a 15% discount for groups of 12 or more (get in touch [ucdtrainingcourse@gmail.com](mailto:ucdtrainingcourse@gmail.com) for bigger groups).
 
-3 tickets: £1,620.00 + £324.00 VAT = £1,944 inc VAT
-
-4 tickets: £2,160.00 + £432.00 VAT = £2, 592 inc VAT
-
-5 tickets: £2,700.00 + £540.00 VAT = £3,240 inc VAT
-
-6 tickets: £3,240.00 + £648.00 VAT = £3, 888 inc VAT
-
-> We can also take payment by purchase order & invoice for an extra fee, get in touch with us at [ucdtrainingcourse@gmail.com](mailto:ucdtrainingcourse@gmail.com) to pay this way.
+We can also take payment by purchase order & invoice for an £50 fee, get in touch with us to pay this way.
 
 We have a [template justification letter to attend](https://docs.google.com/document/d/1NJGJYjOQ9SwhtcPQbW55NSsNVGB-d2sONouFnQ2DiDw/edit?usp=sharing), which you're welcome to use.
 
