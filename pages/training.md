@@ -14,9 +14,9 @@ eleventyNavigation:
 
 **[Introduction to service design in Government](https://www.claragreo.com/posts/introduction-to-service-design-in-government:-remote-training-course-(pound600-ex-vat)/) - 10 hr, remote training course (£600 ex VAT)** 
 
-**[18 - 23 Jan, 2024](https://www.tickettailor.com/events/ignaciaandclara/1039808?)**
-
 **[21-26 March, 2024](https://www.tickettailor.com/events/ignaciaandclara/1042652?)**
+
+**[16-21 May, 2024](https://www.tickettailor.com/events/ignaciaandclara/1124372?)**
 
 <br />
 
