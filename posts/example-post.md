@@ -1,7 +1,7 @@
 ---
 title: "Introduction to service design in Government: remote training course
   (£600 ex VAT)"
-date: 2022-11-10T00:35:28.547Z
+date: 2024-01-30T12:42:35.987Z
 author: Clara
 summary: Learn what service design is and how you can use it with this 10 hour,
   fully remote training course for designers, researchers, product people,
@@ -14,6 +14,8 @@ tags:
 **March dates:** 21-26 March 2024  [Book tickets for March](https://www.tickettailor.com/events/ignaciaandclara/1042652)
 
 **May dates**: 16-21 May 2024 [Book tickets for May](https://www.tickettailor.com/events/ignaciaandclara/1124372?)
+
+[S﻿ign up to our newsletter](https://buttondown.email/ucdtraining) to find out about new course dates when they're released. 
 
 
 
@@ -39,16 +41,14 @@ This course is relevant for designers, researchers, product people, policy peopl
 
 ### May 2024
 
-**Part 1:** Thursday 16 May 12pm -3pm* GMT\
+**Part 1:** Thursday 16 May 12pm -3pm *GMT\
 **Part 2:** Friday 17 May 12pm -3pm* GMT + 30 mins homework\
-**Part 3:** Monday 20 May 12pm -3pm* GMT + 30 mins homework\
+**Part 3:** Monday 20 May 12pm -3pm *GMT + 30 mins homework\
 **Part 4:** Tuesday 21 May 12pm -3pm* GMT
 
 \*including 30 min lunch break at 1pm
 
 [Book tickets for May](https://www.tickettailor.com/events/ignaciaandclara/1124372?)
-
-
 
 G﻿et in touch to talk about in-house training. 
 
