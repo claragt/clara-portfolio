@@ -11,13 +11,11 @@ coversmall: https://www.claragreo.com/static/img/img_1448_small.jpg
 tags:
   - Training
 ---
-**March dates:** 21-26 March 2024  [Book tickets for March](https://www.tickettailor.com/events/ignaciaandclara/1042652)
+**March dates:** 21-26 March 2024  [Book tickets for March](https://www.tickettailor.com/events/ignaciaandclara/1042652)- sold out 
 
 **May dates**: 16-21 May 2024 [Book tickets for May](https://www.tickettailor.com/events/ignaciaandclara/1124372?)
 
 [S﻿ign up to our newsletter](https://buttondown.email/ucdtraining) to find out about new course dates when they're released. 
-
-
 
 ![A photo over the shoulder of a person, holding a pen, drawing a mind map or sketch notes on a page, with "Intro to service design" written in the middle. The person has olive skin and wavy brown hair. ](/static/img/img_1448.jpg)
 
@@ -30,7 +28,7 @@ This course is relevant for designers, researchers, product people, policy peopl
 
 ## C﻿ourse dates
 
-### March 2024
+### March 2024 (sold out)
 
 **Part 1:** Thursday 21 March 10:00am -12:30pm GMT\
 **Part 2:** Friday 22 March 10:00am -12:30pm GMT + 30 mins homework\
