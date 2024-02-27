@@ -18,11 +18,7 @@ eleventyNavigation:
 
 **[16-21 May, 2024](https://www.tickettailor.com/events/ignaciaandclara/1124372?)**
 
-<br />
-
-**[Power, privilege and equity: Designing and building services and products](https://buytickets.at/claragreo/1067659)   - 8 hour, remote training course (£450 ex VAT)**
-
-**[13 - 16 Feb, 2024](https://buytickets.at/claragreo/1067659)**
+**[26 Sept - 1 Oct 2024](https://www.tickettailor.com/events/ignaciaandclara/1165200)**
 
 <p></div>
 <br />
