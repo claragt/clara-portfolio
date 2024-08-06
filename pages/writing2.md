@@ -8,6 +8,12 @@ eleventyNavigation:
 ---
 Blog posts, articles and weeknotes. 
 
+### 2﻿024
+
+[Equity and Justice: why it matters in UK Government digital services and what we can do about it](https://www.claragreo.com/posts/equity-and-justice-why-it-matters-in-uk-government-digital-services-and-what-we-can-do-about-it/)
+
+B﻿y Clara Greo
+
 ### 2022
 
 [Reflections on running service design training](https://www.claragreo.com/posts/reflections-on-running-service-design-training/)
