@@ -139,6 +139,6 @@ Article: [It’s Time to Define What “Good” Means in Our Industry](https://d
 
 Article: [The Hidden Privilege in Design](https://medium.com/@hareem/the-hidden-privilege-in-design-415072d8a66) (October 23 2018) by Hareem Mannan
 
-## About Clara
+## Thanks
 
-I’m an independent service designer and user-centred design leader and trainer. You can find out more about me [on my website](https://www.claragreo.com/). I try to bring equity and justice into public sector digital transformation. I sometimes run a course called [Power, privilege and equity: Designing and building services and products](https://docs.google.com/document/d/1kAlQ9hp3AwUjRV_ov6E2T2Ix28IAzdEH_ENbwW13pUk/edit?usp=sharing) with my colleague [Sonia Turcotte](https://soniaturcotte.com/).
+Thanks to [](https://www.linkedin.com/in/ACoAAADyx4gBn4gUm1OOLsq1Tn5fkOHacUEFMDY)[Alistair Greo](https://www.linkedin.com/in/alistairgreo202/), [](https://www.linkedin.com/in/ACoAAAcOzwoBaE4EWJ4oLOY2GOFkvyOuFbHonJ0)[Sonia Turcotte](https://soniaturcotte.com/), [](https://www.linkedin.com/in/ACoAAAUQ9NEBlsMpoWubJHBDVVME0T248ke_VfA)[Kara Kane](https://www.linkedin.com/in/kara-kane-32957024/) and [](https://www.linkedin.com/in/ACoAAAYDIuAB1UO_Z2hSAKv3o_zUzjvizz7ZJjM)[Ignacia Orellana](https://ignaciaorellana.com/) for your help in getting this article published 💫
