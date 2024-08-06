@@ -9,7 +9,7 @@ summary: >
   everyone. 
 
 
-  This article explains what we mean by equity and justice in relation to government digital services, why it’s important and suggests 6 things that leaders and decision makers can start doing about it today. 
+  This article talks about what we mean by equity and justice in relation to government digital services, why it’s important and suggests 6 things that leaders and decision makers can start doing about it today. 
 cover: static/img/equity-equality-diagram.jpg
 coversmall: static/img/equity-equality-diagram.jpg
 tags:
@@ -17,7 +17,7 @@ tags:
 ---
 > Some groups of people benefit more from services than others. Some people are harmed. This must be addressed to truly break down barriers to opportunity for everyone. 
 >
-> This article explains what we mean by equity and justice in relation to government digital services, why it’s important and suggests 6 things that leaders and decision makers can start doing about it today. 
+> This article talks about what we mean by equity and justice in relation to government digital services, why it’s important and suggests 6 things that leaders and decision makers can start doing about it today. 
 
 
 
