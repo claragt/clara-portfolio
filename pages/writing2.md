@@ -10,7 +10,7 @@ Blog posts, articles and weeknotes.
 
 ### 2﻿024
 
-[Equity and Justice: why it matters in UK Government digital services and what we can do about it](https://www.claragreo.com/posts/equity-and-justice-why-it-matters-in-uk-government-digital-services-and-what-we-can-do-about-it/)
+[Equity and Justice: why it matters in UK Government digital services and what we can do about it](https://www.claragreo.com/posts/equity-and-justice:-why-it-matters-in-uk-government-digital-services-and-what-we-can-do-about-it/)
 
 B﻿y Clara Greo
 
@@ -55,6 +55,10 @@ By Clara Greo and Keeley Robertson
 [Designers assemble! The cross-government buddy group pilot](https://designnotes.blog.gov.uk/2020/12/04/designers-assemble-the-cross-government-buddy-group-pilot/)
 
 By Clara Greo, Rob King, Roger Wyatt and Sam McLaren
+
+[Service mapping: a step by step guide](https://services.blog.gov.uk/2020/09/01/service-mapping-a-step-by-step-guide/)
+
+B﻿y Clara Greo
 
 [What we are doing to increase equity in the GDS design team](https://designnotes.blog.gov.uk/2020/02/22/what-we-are-doing-to-increase-equity-in-the-gds-design-team/)
 
