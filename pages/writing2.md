@@ -38,7 +38,7 @@ By Keeley Robertson and Clara Greo
 
 ## 2021
 
-[Weeknotes – Equity and inclusion in NHS Digital products and services](https://docs.google.com/document/d/1dAqglXGTuYjadNg8RkNFtOFqfNgm2jbzGjZwEU3C_Eg/edit?usp=share_link)
+[Weeknotes – Equity and inclusion in NHS Digital products and services](https://docs.google.com/document/d/17xB-HwmySj8RORO9km3uCpiDHoP75HVhUzq6MtWpsho/edit?usp=sharing)
 
 By Clara Greo and Sonia Turcotte
 
