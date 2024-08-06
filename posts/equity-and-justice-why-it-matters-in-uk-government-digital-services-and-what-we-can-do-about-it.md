@@ -15,6 +15,16 @@ coversmall: static/img/equity-equality-diagram.jpg
 tags:
   - post
 ---
+> Some groups of people benefit more from services than others. Some people are harmed. This must be addressed to truly break down barriers to opportunity for everyone. 
+>
+> This article explains what we mean by equity and justice in relation to government digital services, why it’s important and suggests 6 things that leaders and decision makers can start doing about it today. 
+
+
+
+![A diagram of 3 poeple looking over a fence to watch sports. Some people are standing on lower ground (a metaphor for historical oppression) and are trying to see over a higher fence, a metaphor for present-day systems of oppression. There is a hole in the fence, made by the person on the right, to symbolize the creative and often subversive ways that people find to work around systems and get some of what they need](/static/img/equity-equality-diagram.jpg "Image by Paul Kuttner")
+
+
+
 **There are unequal outcomes for users of government digital services.** 
 
 This might be easier to identify when we think about services like health and education. For example, [a recent MBRRACE-UK report](https://lordslibrary.parliament.uk/maternal-mortality-rates-in-the-black-community/) states that Black women are 3.7 times more likely to die during or in the first year after pregnancy than White women and [a study buy the IFS](https://ifs.org.uk/articles/uk-education-system-preserves-inequality-new-report) found that more than 70% of children from the richest tenth of families earn five good GCSEs, compared with fewer than 30% in the poorest households.  
@@ -27,8 +37,6 @@ As we become more reliant on digital services, the importance of keeping equity 
 
 When we speak of outcomes, we are talking about more than just whether users have access to a service, or what their experience of using the service is like. Outcomes include what a user gets out of a service, how it meets their needs or not and how it benefits or harms them. 
 
-
-
 ## Examples of unequal outcomes for different groups in UK public digital services
 
 The problem of unequal outcomes and unjust digital services is real and present. Consider these cases: 
@@ -40,10 +48,6 @@ The problem of unequal outcomes and unjust digital services is real and present.
 There are many other examples of the ways in which outcomes of digital services are unjust and unequal. 
 
 These inequalities are frequently associated with race, sex, gender identity, sexual orientation, age, disability, and other protected characteristics, as well as socio-economic or geographic inequalities, and other forms of vulnerability in society. [A study by Truth Consulting, for Barclays Bank](https://home.barclays/content/dam/home-barclays/documents/news/PressReleases/Empowering-Digital-Choice-Barclays.pdf) found that “age, income level and disability are the most significant demographic factors in creating either total or partial \[digital] exclusion.”
-
-
-
-
 
 ## Equity vs equality
 
@@ -66,8 +70,6 @@ In order to build an NHS fit for the future, we must consider equity when we des
 
 > “… it has a wider social duty to promote equality through the services it provides and to pay particular attention to groups or sections of society where improvements in health and life expectancy are not keeping pace with the rest of the population.”
 
-
-
 ## How to prioritise equity and justice in decision making 
 
 The longer we wait to address these issues, the more we prioritise other concerns, the more harm we do. We need to act now. 
@@ -80,7 +82,7 @@ To address the inequities in digital services, we need to look at: 
 
 Here are some of the things we can do:
 
-#### **1. Measure the outcomes of services in terms of equity**  
+#### **1. Measure the outcomes of services in terms of equity** 
 
 Make a policy commitment to improving the equity of outcomes for our digital services - identify the main services or groups of people where outcomes are unjust, measure and benchmark those outcomes and make explicit policy commitments and strategic decisions to improve those measurements. 
 
@@ -127,10 +129,6 @@ There’s already so much information about this available, including some [work
 
 Working towards equity and justice in public digital services isn’t easy. As people who make decisions about these services, we have the power to change them, and we have a responsibility to try.
 
-
-
-
-
 ## Further reading:
 
 Book: [Design Justice](https://design-justice.pubpub.org/) by Sasha Constanza-Chock
@@ -142,8 +140,6 @@ Book: [Public and collaborative: exploring the intersection of design, social in
 Article: [It’s Time to Define What “Good” Means in Our Industry](https://designobserver.com/feature/its-time-to-define-what-good-means-in-our-industry/40021) (14 March 2019) by George Aye
 
 Article: [The Hidden Privilege in Design](https://medium.com/@hareem/the-hidden-privilege-in-design-415072d8a66) (October 23 2018) by Hareem Mannan
-
-
 
 ## About Clara
 
