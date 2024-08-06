@@ -16,7 +16,7 @@ eleventyNavigation:
 
 **[21-26 March, 2024](https://www.tickettailor.com/events/ignaciaandclara/1042652?)** - SOLD OUT
 
-**[16-21 May, 2024](https://www.tickettailor.com/events/ignaciaandclara/1124372?)**
+**[16-21 May, 2024](https://www.tickettailor.com/events/ignaciaandclara/1124372?)**- SOLD OUT
 
 **[26 Sept - 1 Oct 2024](https://www.tickettailor.com/events/ignaciaandclara/1165200)**
 
