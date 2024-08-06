@@ -33,7 +33,9 @@ These differences are also present in digital services. For example, in 2020 [a 
 
 **Some groups of people benefit more from services than others. Some people are harmed. This must be addressed to truly break down barriers to opportunity for everyone.** 
 
-As we become more reliant on digital services, the importance of keeping equity of outcomes for everyone in mind grows. If we aim to make interacting with government digital services more convenient and time efficient then equity and justice must be part of that too. Digital helps us scale and reach more people, faster, yet it also can scale inequity and harm through things like poor implementation, biassed algorithms, untested emerging tech inadequate research or simply failure to consider the implications of our choices.
+As we become more reliant on digital services, the importance of keeping equity of outcomes for everyone in mind grows. If we aim to make interacting with government digital services more convenient and time efficient then equity and justice must be part of that too. 
+
+Digital helps us scale and reach more people, faster, yet it also can scale inequity and harm through things like poor implementation, biassed algorithms, untested emerging tech inadequate research or simply failure to consider the implications of our choices.
 
 When we speak of outcomes, we are talking about more than just whether users have access to a service, or what their experience of using the service is like. Outcomes include what a user gets out of a service, how it meets their needs or not and how it benefits or harms them. 
 
@@ -129,7 +131,7 @@ There’s already so much information about this available, including some [work
 
 Working towards equity and justice in public digital services isn’t easy. As people who make decisions about these services, we have the power to change them, and we have a responsibility to try.
 
-## Further reading:
+## Further reading
 
 Book: [Design Justice](https://design-justice.pubpub.org/) by Sasha Constanza-Chock
 
