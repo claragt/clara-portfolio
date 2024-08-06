@@ -13,11 +13,9 @@ tags:
 ---
 **March dates:** 21-26 March 2024  [Book tickets for March](https://www.tickettailor.com/events/ignaciaandclara/1042652)- SOLD OUT
 
-**May dates**: 16-21 May 2024 [Book tickets for May](https://www.tickettailor.com/events/ignaciaandclara/1124372?)
+**May dates**: 16-21 May 2024 [Book tickets for May](https://www.tickettailor.com/events/ignaciaandclara/1124372?)- SOLD OUT
 
 **September dates**: 26 Sept - 1 Oct, 2024 [Book tickets for September](https://www.tickettailor.com/events/ignaciaandclara/1165200)
-
-
 
 [S﻿ign up to our newsletter](https://buttondown.email/ucdtraining) to find out about new course dates when they're released. 
 
@@ -60,8 +58,6 @@ This course is relevant for designers, researchers, product people, policy peopl
 **Part 4:** Tuesday 1 Oct 10am - 12:30pm GMT
 
 [Book tickets for September](https://www.tickettailor.com/events/ignaciaandclara/1165200)
-
-
 
 G﻿et in touch to talk about in-house training. 
 
