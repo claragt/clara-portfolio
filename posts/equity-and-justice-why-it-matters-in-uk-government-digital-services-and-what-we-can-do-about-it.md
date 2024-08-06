@@ -19,11 +19,7 @@ tags:
 >
 > This article talks about what we mean by equity and justice in relation to government digital services, why it’s important and suggests 6 things that leaders and decision makers can start doing about it today. 
 
-
-
 ![A diagram of 3 poeple looking over a fence to watch sports. Some people are standing on lower ground (a metaphor for historical oppression) and are trying to see over a higher fence, a metaphor for present-day systems of oppression. There is a hole in the fence, made by the person on the right, to symbolize the creative and often subversive ways that people find to work around systems and get some of what they need](/static/img/equity-equality-diagram.jpg "Image by Paul Kuttner")
-
-
 
 **There are unequal outcomes for users of government digital services.** 
 
@@ -63,10 +59,10 @@ Making our services and products just and equitable means making sure everyone g
 >
 > As people who make decisions about, create and deliver digital government services and products, it’s in our power to either exacerbate these inequities, or to address them. 
 
-The public sector equality duty is part of the Equality Act 2010. It says that we have a duty to advance equality by:
+The public sector equality duty is part of the [Equality Act 2010](https://www.hee.nhs.uk/our-work/diversity-inclusion/our-public-duty). It says that we have a duty to advance equality by:
 
-* Removing or minimising disadvantages suffered by people due to their protected characteristics.
-* Taking steps to meet the needs of people from protected groups where these are different from the needs of other people.
+> * Removing or minimising disadvantages suffered by people due to their protected characteristics.
+> * Taking steps to meet the needs of people from protected groups where these are different from the needs of other people.
 
 In order to build an NHS fit for the future, we must consider equity when we design digital services for health. The [NHS constitution](https://www.gov.uk/government/publications/the-nhs-constitution-for-england/the-nhs-constitution-for-england#principles-that-guide-the-nhs) states that: 
 
