@@ -27,7 +27,7 @@ I believe that working together is where much of the real work is - collaboratio
 
 <br/>
 
-<a name=”consequence”> </a>
+<a name="consequence"> </a>
 
 ### Consequence scanning
 
@@ -35,7 +35,7 @@ Consequence scanning is a tool that helps teams and organisations to think about
 
 <br/>
 
-<a name=”justice”> </a>
+<a name="justice"> </a>
 
 ### Reflections on design justice
 
@@ -43,7 +43,7 @@ In this activity we learn about the principles of [design justice](https://desig
 
 <br/>
 
-<a name=”language”> </a>
+<a name="language"> </a>
 
 ### The language of equity, diversity and inclusion
 
@@ -51,7 +51,7 @@ This session will help colleagues understand what power language can have, think
 
 <br/>
 
-<a name=”shadow”> </a>
+<a name="shadow"> </a>
 
 ### Shadow-values analysis
 
@@ -59,9 +59,7 @@ In this workshop we look at an organisations stated values and interrogate them 
 
 <br/>
 
-<a name=”why”> </a>
-
-### \
+<a name="why"> </a>
 
 Why do we do user-centred design (UCD)?
 
@@ -69,7 +67,7 @@ We will thing about why UCD matters for government, and also what happens when w
 
 <br/>
 
-<a name=”users”> </a>
+<a name="users"> </a>
 
 ### Who are users?
 
@@ -79,7 +77,7 @@ In this activity and discussion based workshop we’ll look at who are users (an
 
 <br/>
 
-<a name=”needs”> </a>
+<a name="needs"> </a>
 
 ### User needs
 
@@ -94,7 +92,7 @@ In this activity and discussion based workshop we’ll look at who are users (an
 
 <br/>
 
-<a name=”hierarchy”> </a>
+<a name="hierarchy"> </a>
 
 ### Hierarchy of user needs mapping
 
@@ -104,7 +102,7 @@ The team will bring the list of needs to the workshop. During the workshop we’
 
 <br/>
 
-<a name=”power”> </a>
+<a name="power"> </a>
 
 ### Power, equity and justice in user-centred design
 
@@ -112,7 +110,7 @@ This workshop introduces the important ideas of power, equity and justice, and h
 
 <br/>
 
-<a name=”problem”> </a>
+<a name="problem"> </a>
 
 ### Define the problem
 
@@ -127,7 +125,7 @@ In this activity based workshop we will look at:
 
 <br/>
 
-<a name=”journey”> </a>
+<a name="journey"> </a>
 
 ### Using a user journey map to find problems and solutions
 
@@ -135,7 +133,7 @@ Most of us have seen or used journey maps before. In this workshop we will explo
 
 <br/>
 
-<a name=”barriers”> </a>
+<a name="barriers"> </a>
 
 ### Overcoming the barriers to UCD
 
@@ -148,7 +146,7 @@ User-centred design practitioners almost always face barriers to practising UCD 
 
 <br />
 
-<a name=”influencing”> </a>
+<a name="influencing"> </a>
 
 ### Approaches to influencing and convincing stakeholders
 
@@ -156,7 +154,7 @@ Working with stakeholders to guide decision making is an important but often und
 
 <br />
 
-<a name=mapping> </a>
+<a name="mapping"> </a>
 
 ### Step-by-step service mapping
 
