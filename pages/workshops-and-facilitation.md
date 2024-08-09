@@ -10,6 +10,10 @@ I believe that working together is where much of the real work is - collaboratio
 
 [G﻿et in touch](https://www.claragreo.com/contact/) if there's a workshop you'd like me to run or some facilitation you need help with. Here are some workshops I've run before:
 
+Consequence scanning
+
+
+
 ### Consequence scanning
 
 Consequence scanning is a tool that helps teams and organisations to think about the potential consequences of their product or service on people, communities and the planet. This allows them to have open conversations with stakeholders; to understand what they can influence; and to start mitigating risks and addressing possible harms.
@@ -62,17 +66,43 @@ This method is best for teams who have a large collection of user needs and are 
 
 The team will bring the list of needs to the workshop. During the workshop we’ll learn about how user needs relate to each other and map the needs into a hierarchy. We then use the hierarchy to prioritise needs, identify opportunities and generate ideas for solutions at different levels.
 
+### Power, equity and justice in user-centred design
+
+This workshop introduces the important ideas of power, equity and justice, and how they relate to digital services in government. We will learn about the design justice principles and thinking about how they might play into our work.
 
 
-Power and equity and justice in user-centred design
 
-Define the problem
+### Define the problem
 
-Using a user journey map to find problems and solutions
+Being able to interrogate and define (or re-define) the problem you’re working on is a core skill in service design, and an important task for teams. 
 
-Overcoming the barriers to UCD
+In this activity based workshop we will look at:
 
-Approaches to influencing and convincing stakeholders
+* what makes a good problem statement
+* how to interrogate a problem statement
+* how to re-frame a problem statement
+* taking a wholistic and service level view of our work
+
+
+
+### Using a user journey map to find problems and solutions
+
+Most of us have seen or used journey maps before. In this workshop we will explore one of the most useful insights journey maps can offer - analysing pain and waste in a service to collaboratively find solutions to problems.
+
+
+
+### Overcoming the barriers to UCD
+
+User-centred design practitioners almost always face barriers to practising UCD in their organisation. This workshop will guide a team of designer or researchers through thinking about these questions in relation to their teams, organisation and practice:
+
+* what are the common barriers to UCD?
+* what are the barriers in your context?
+* what is causing these barriers?
+* how might we start to overcome the barriers?
+
+### Approaches to influencing and convincing stakeholders
+
+Working with stakeholders to guide decision making is an important but often under-developed skill in UCD. In this workshop we will think about the different types of stakeholders we work with and different ways of influencing them, and consider specific stakeholders and groups in your context.
 
 ### Step-by-step service mapping
 
