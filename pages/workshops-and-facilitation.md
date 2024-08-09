@@ -61,7 +61,7 @@ In this workshop we look at an organisations stated values and interrogate them 
 
 <a name="why"> </a>
 
-Why do we do user-centred design (UCD)?
+### Why do we do user-centred design (UCD)?
 
 We will thing about why UCD matters for government, and also what happens when we don’t do UCD. We’ll look briefly at the history of design in government, what UCD looks like in the UK government today, and what it could or should look like for you.
 
@@ -79,7 +79,7 @@ In this activity and discussion based workshop we’ll look at who are users (an
 
 <a name="needs"> </a>
 
-### User needs
+### Understanding user needs
 
 “User needs” is another core concept in design in government, but it is often misunderstood or misused. This workshop will give participants a thorough understanding of:
 
