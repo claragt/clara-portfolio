@@ -146,7 +146,7 @@ User-centred design practitioners almost always face barriers to practising UCD 
 * what is causing these barriers?
 * how might we start to overcome the barriers?
 
-<br/>
+<br />
 
 <a name=”influencing”> </a>
 
@@ -154,7 +154,7 @@ User-centred design practitioners almost always face barriers to practising UCD 
 
 Working with stakeholders to guide decision making is an important but often under-developed skill in UCD. In this workshop we will think about the different types of stakeholders we work with and different ways of influencing them, and consider specific stakeholders and groups in your context.
 
-<br/>
+<br />
 
 <a name=”mapping”> </a>
 
