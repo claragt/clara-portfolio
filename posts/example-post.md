@@ -30,26 +30,6 @@ This course is relevant for designers, researchers, product people, policy peopl
 
 ## C﻿ourse dates
 
-### March 2024 (sold out)
-
-**Part 1:** Thursday 21 March 10:00am -12:30pm GMT\
-**Part 2:** Friday 22 March 10:00am -12:30pm GMT + 30 mins homework\
-**Part 3:** Monday 25 March 10:00am -12:30pm GMT + 30 mins homework\
-**Part 4:** Tuesday 26 March 10:00am -12:30pm GMT
-
-[Book tickets for March](https://www.tickettailor.com/events/ignaciaandclara/1042652)
-
-### May 2024
-
-**Part 1:** Thursday 16 May 12pm -3pm* GMT\
-**Part 2:** Friday 17 May 12pm -3pm GMT + 30 mins homework\
-**Part 3:** Monday 20 May 12pm -3pm GMT + 30 mins homework\
-**Part 4:** Tuesday 21 May 12pm -3pm GMT
-
-\*including 30 min lunch break at 1pm
-
-[Book tickets for May](https://www.tickettailor.com/events/ignaciaandclara/1124372?)
-
 ### September 2024
 
 **Part 1:** Thursday 26 Sept 10am - 12:30pm GMT\
