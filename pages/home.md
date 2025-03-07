@@ -11,22 +11,7 @@ eleventyNavigation:
 
 ## Designer, researcher and trainer
 
-<div style="padding: 20px; background-color: #d3e3d5; border-radius: 7px">
 
-<header style="margin-top: -50px;">
-
-## Upcoming courses:
-
-**[Introduction to service design in Government](https://www.claragreo.com/posts/introduction-to-service-design-in-government:-remote-training-course-(pound600-ex-vat)/) - 10 hr, remote training course (£600 ex VAT)**
-
-**[21-26 March, 2024](https://www.tickettailor.com/events/ignaciaandclara/1042652?)** - SOLD OUT
-
-**[16-21 May, 2024](https://www.tickettailor.com/events/ignaciaandclara/1124372?)**- SOLD OUT
-
-**[26 Sept - 1 Oct 2024](https://www.tickettailor.com/events/ignaciaandclara/1165200)**
-
-<p></div>
-<br />
 
 I’m a **service designer** and **user-centred design practitioner and leader**. I try to bring **equity and justice** into public sector digital transformation. 
 
