@@ -3,9 +3,9 @@ layout: layouts/blog.njk
 title: Blog
 metaDescription: A sample Blog page listing various posts and authors.
 date: 2017-01-01
-permalink: /News/index.html
+permalink: /Blog/index.html
 eleventyNavigation:
-  key: News
+  key: Blog
   order: 3
 ---
-N﻿ew blog posts and live training courses
+Blog posts and training courses
