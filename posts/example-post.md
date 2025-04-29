@@ -12,6 +12,15 @@ tags:
   - Training
 ---
 
+### Next course dates
+
+**Part 1:** Thursday 25 Sept 10am - 12:30pm GMT  
+**Part 2:** Friday 26 Sept 10am - 12:30pm GMT + 30 mins homework  
+**Part 3:** Thursday 2nd Oct 10am - 12:30pm GMT + 30 mins homework  
+**Part 4:** Friday 3rd Oct 10am - 12:30pm GMT  
+
+[Buy tickets](https://www.tickettailor.com/events/ignaciaandclara/1656747)
+
 
 [S﻿ign up to our newsletter](https://buttondown.email/ucdtraining) to find out about new course dates when they're released. 
 
