@@ -6,6 +6,20 @@ eleventyNavigation:
   order: 1
   key: Training
 ---
+<div style="padding: 20px; background-color: #d3e3d5; border-radius: 7px">
+
+<header style="margin-top: -50px;">
+
+\## Upcoming courses:
+
+\*\*\[Introduction to service design in Government](https://www.tickettailor.com/events/ignaciaandclara/1656747) - 10 hr, remote training course (£600 ex VAT)\*\* 
+
+\*\*\[25 Sept - 3 October, 2025]
+
+<p></div>
+
+<br />
+
 
 
 I love running training and I’m pretty good at it. 
