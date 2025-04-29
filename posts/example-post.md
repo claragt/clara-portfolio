@@ -12,14 +12,18 @@ tags:
   - Training
 ---
 
-### Next course dates
-
+## Course dates  
+### September 2025
 **Part 1:** Thursday 25 Sept 10am - 12:30pm GMT  
 **Part 2:** Friday 26 Sept 10am - 12:30pm GMT + 30 mins homework  
 **Part 3:** Thursday 2nd Oct 10am - 12:30pm GMT + 30 mins homework  
 **Part 4:** Friday 3rd Oct 10am - 12:30pm GMT  
 
-[Buy tickets](https://www.tickettailor.com/events/ignaciaandclara/1656747)
+
+[Book  tickets for September 2025] (https://www.tickettailor.com/events/ignaciaandclara/1656747)  
+
+[G﻿et in touch](/contact) to talk about in-house training. 
+
 
 
 [S﻿ign up to our newsletter](https://buttondown.email/ucdtraining) to find out about new course dates when they're released. 
@@ -33,18 +37,7 @@ This is an introductory course into service design in Government. It's an 10 hou
 
 This course is relevant for designers, researchers, product people, policy people, delivery people, BAs, data, developers and technologists - anyone working in digital products and services in Government.
 
-## C﻿ourse dates
 
-### September 2024
-
-**Part 1:** Thursday 26 Sept 10am - 12:30pm GMT\
-**Part 2:** Friday 27 Sept 10am - 12:30pm GMT + 30 mins homework\
-**Part 3:** Monday 30 Sept 10am - 12:30pm GMT + 30 mins homework\
-**Part 4:** Tuesday 1 Oct 10am - 12:30pm GMT
-
-[Book tickets for September](https://www.tickettailor.com/events/ignaciaandclara/1165200)
-
-G﻿et in touch to talk about in-house training. 
 
 ## P﻿rice
 
