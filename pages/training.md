@@ -11,29 +11,23 @@ eleventyNavigation:
 
 ## Upcoming courses:
 
-[Introduction to User-centred Design (UCD) in Government](https://www.tickettailor.com/events/claragreo/1683896)  
-1 day, in-person training course in Brighton UK  
-£275 / £350 ex VAT  
+[Introduction to User-centred Design (UCD) in Government](https://www.tickettailor.com/events/claragreo/1683896)\
+1 day, in-person training course in Brighton UK\
+£275 / £350 ex VAT\
 Fri 20 Jun 2025  
 
-
-[Money talks: Estimating the cost and value of service design](https://www.tickettailor.com/events/ignaciaandclara/1656762)  
-5 hr, remote training course  
-£275 / £300 ex VAT  
+[Money talks: Estimating the cost and value of service design](https://www.tickettailor.com/events/ignaciaandclara/1656762)\
+5 hr, remote training course\
+£275 / £300 ex VAT\
 Fri 27 Jun 2025
 
-
-[Introduction to service design in Government](https://www.tickettailor.com/events/ignaciaandclara/1656747)  
+[Introduction to service design in Government](https://www.tickettailor.com/events/ignaciaandclara/1656747)\
 10 hr, remote training course 
-£600 ex VAT  
+£600 ex VAT\
 25 Sept - 3 October, 2025
-
 
 <p></div>
 <br />
-
-
-
 
 I love running training and I’m pretty good at it. 
 
@@ -50,7 +44,7 @@ However, I believe that supporting and investing in community is the best way to
 #### User-centred design
 
 * Advocating for user-centred design (1 day course)
-* Introduction to user-centred design in Government (1 day course)
+* [Introduction to user-centred design in Government](https://www.tickettailor.com/events/claragreo/1683896) (1 day course)
 * User-centred design induction (2 hour workshop)
 * How to be a designer in Government (1 day course)
 
