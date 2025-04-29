@@ -12,6 +12,15 @@ tags:
   - Training
 ---
 
+![A photo over the shoulder of a person, holding a pen, drawing a mind map or sketch notes on a page, with "Intro to service design" written in the middle. The person has olive skin and wavy brown hair. ](/static/img/img_1448.jpg)
+
+\
+**Where:** Online, on Zoom
+
+This is an introductory course into service design in Government. It's an 10 hour course - 4 x 2.5 hour sessions over 4 days. We will run it fully remote (online).
+
+This course is relevant for designers, researchers, product people, policy people, delivery people, BAs, data, developers and technologists - anyone working in digital products and services in Government.
+
 ## Course dates  
 ### September 2025
 **Part 1:** Thursday 25 Sept 10am - 12:30pm GMT  
@@ -27,17 +36,7 @@ tags:
 
 
 [S﻿ign up to our newsletter](https://buttondown.email/ucdtraining) to find out about new course dates when they're released. 
-
-![A photo over the shoulder of a person, holding a pen, drawing a mind map or sketch notes on a page, with "Intro to service design" written in the middle. The person has olive skin and wavy brown hair. ](/static/img/img_1448.jpg)
-
-\
-**Where:** Online, on Zoom
-
-This is an introductory course into service design in Government. It's an 10 hour course - 4 x 2.5 hour sessions over 4 days. We will run it fully remote (online).
-
-This course is relevant for designers, researchers, product people, policy people, delivery people, BAs, data, developers and technologists - anyone working in digital products and services in Government.
-
-
+ ﻿ 
 
 ## P﻿rice
 
