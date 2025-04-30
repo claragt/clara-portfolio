@@ -29,7 +29,7 @@ This course is relevant for designers, researchers, product people, policy peopl
 **Part 4:** Friday 3rd Oct 10am - 12:30pm GMT  
 
 
-[Book  tickets for September 2025] (https://www.tickettailor.com/events/ignaciaandclara/1656747)  
+[Book  tickets for September 2025](https://www.tickettailor.com/events/ignaciaandclara/1656747)  
 
 [G﻿et in touch](/contact) to talk about in-house training. 
 
