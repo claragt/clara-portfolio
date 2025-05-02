@@ -15,7 +15,6 @@ eleventyNavigation:
 <header style="margin-top: -50px;">  
 
 ## Upcoming courses:
-
 [Introduction to User-centred Design (UCD) in Government](https://www.tickettailor.com/events/claragreo/1683896)  
 1 day, in-person training course in Brighton UK  
 £275 / £350 ex VAT  
@@ -28,12 +27,19 @@ eleventyNavigation:
 **Fri 27 Jun 2025**
 
 
+[Advocating for UCD in government](https://www.tickettailor.com/events/ignaciaandclara/1656762)  
+10 hrs, in person in Brighton UK & remote training course  
+£375 / £450 ex VAT  
+**Fri 18 July & Fri 25 July 2025**
+
+
 [Introduction to service design in Government](https://www.tickettailor.com/events/ignaciaandclara/1656747)  
 10 hr, remote training course 
 £600 ex VAT  
 **25 Sept - 3 October, 2025**  
 
 
+[Sign up to our mailing list](https://buttondown.com/ucdtraining) to be notified when new courses are released. 
 <p></div>
 <br />
 
