@@ -3,8 +3,8 @@ title: Services
 date: 2025-05-14T09:16:44.948Z
 permalink: services/index.html
 eleventyNavigation:
-  order: 2
-  key: services
+  order: 1
+  key: Services
 ---
 <h1>Services</h1>
 
