@@ -4,7 +4,7 @@ date: 2022-11-10T00:14:11.485Z
 permalink: /writing/index.html
 eleventyNavigation:
   order: 4
-  key: Writing
+  key: Writing and resources
 ---
 
 ## Resources
