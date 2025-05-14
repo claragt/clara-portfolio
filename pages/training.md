@@ -3,7 +3,7 @@ title: Training
 date: 2022-11-04T11:48:52.010Z
 permalink: /training/index.html
 eleventyNavigation:
-  order: 1
+  order: 2
   key: Training
 ---
 <div style="padding: 20px; background-color: #d3e3d5; border-radius: 7px">
