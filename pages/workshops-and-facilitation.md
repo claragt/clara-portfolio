@@ -3,7 +3,7 @@ title: Workshops and facilitation
 date: 2024-08-06T13:05:49.490Z
 permalink: /workshops/index.html
 eleventyNavigation:
-  order: 2
+  order: 3
   key: Workshops
 ---
 I believe that working together is where much of the real work is - collaboration, collective design and co-design.
