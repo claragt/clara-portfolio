@@ -6,7 +6,7 @@ eleventyNavigation:
   order: 1
   key: Services
 ---
-<h1>Services</h1>
+
 
 These are the services I offer:
 
