@@ -15,6 +15,8 @@ Lists of resources for further learning
     
 -   [Service design](https://docs.google.com/document/d/1oK1ZpX9utTiBwuXuvF02oJx510iEzw1lY5YpG13mRos/edit?usp=sharing)
     
+- [Decolonising service design](https://docs.google.com/document/d/1qHfLGHdfkO_LtcbGaBzWTXxglDKEJbIIWF3GPaV3Yrk/edit?usp=sharing)
+    
 -   [Power and privilege in design](https://docs.google.com/document/d/1kAlQ9hp3AwUjRV_ov6E2T2Ix28IAzdEH_ENbwW13pUk/edit#bookmark=id.akc1jgxmouwk)
     
 
@@ -22,9 +24,15 @@ Lists of resources for further learning
 
 
 
+<br>
+
 
 ## Blog posts, articles and weeknotes
 
+
+### 2025
+
+[Notes from Decolonising service design in government - an open discussion](https://www.claragreo.com/posts/Notes-from-Decolonising-service-design-in-government:-an-open-discussion/)
 
 ### 2﻿024
 
