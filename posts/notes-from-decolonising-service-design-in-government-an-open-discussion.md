@@ -1,5 +1,5 @@
 ---
-title: Notes from Decolonising service design in government - an open discussion
+title: "Notes from Decolonising service design in government: an open discussion"
 date: 2025-05-19T14:07:25.634Z
 author: Clara Greo
 summary: "We hosted a discussion earlier this month about Decolonising service
