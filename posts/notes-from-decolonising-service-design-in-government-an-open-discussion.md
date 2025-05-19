@@ -13,7 +13,7 @@ tags:
   - decolonisation
 ---
 
-![A photo of an orange, starry night sky. People and trees are silhouetted in the foreground](static/img/25171090361_2b8b544c00_o.jpg)
+![A photo of an orange, starry night sky. People and trees are silhouetted in the foreground](/static/img/25171090361_2b8b544c00_o.jpg)
 
 
 Earlier this month, we ([Eloise Smith-Forster](https://www.eloisesmithfoster.com/), [Sonia Turcotte](https://soniaturcotte.com/) and [Clara Greo](https://claragreo.com/)) ran an open discussion on [Decolonising service design in government](https://www.tickettailor.com/events/claragreo/1625860). It was a beautiful session to be a part of. We dove deep and swam wide, and there was a wonderful range of people in the discussion.
