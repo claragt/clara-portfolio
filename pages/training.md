@@ -106,7 +106,8 @@ I believe that supporting and investing in community is the best way to build ca
 
 ### Service design
 
--   [Introduction to service design in Government](https://www.tickettailor.com/events/ignaciaandclara/1656747) (10 hour course)
+
+-   [Introduction to service design in Government](https://claragreo.com/posts/Introduction-to-service-design-in-Government:-training-course/) (10 hour course)
     
 -   Service design in practice (20 hour course)
     
