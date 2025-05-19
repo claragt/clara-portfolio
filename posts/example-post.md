@@ -1,6 +1,5 @@
 ---
-title: "Introduction to service design in Government: remote training course
-  (£600 ex VAT)"
+title: "Introduction to service design in Government: training course"
 date: 2024-01-30T12:42:35.987Z
 author: Clara
 summary: Learn what service design is and how you can use it with this 10 hour,
