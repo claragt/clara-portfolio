@@ -10,7 +10,7 @@ I believe that working together is where much of the real work is - collaboratio
 
 I﻿'d love to chat with you about what kinds of problems your team is facing, what topic areas interest you or any learning gaps you've identified, and together we can work out something that meets your needs. 
 
-[G﻿et in touch](https://www.claragreo.com/contact/) if there's a workshop you'd like me to run or some facilitation you need help with. Here are some workshops I've run before:
+[G﻿et in touch](https://www.claragreo.com/contact/) if there's a workshop you'd like me to run or some facilitation you need help with. Here are some workshops I've run recently:
 
 * [Consequence scanning](#consequence)
 * [Reflections on design justice](#justice)
