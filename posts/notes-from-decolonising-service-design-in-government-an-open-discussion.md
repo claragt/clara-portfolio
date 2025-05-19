@@ -62,9 +62,9 @@ Some of the small steps we talked about included:
 
 -   Saying no to projects, work, employers (recognising that it is a privilege to be able to do this). Several participants shared experiences of turning down work
     
--   Documenting colonialism and its harms when we see it, as a form of resistance, especially when we are disempowered in our choice of what and how to do work (Dr. Zulemia Morgado Ramirez). Write the words down, put them in presentations, put them on slides, put them in risk registers.
+-   Documenting colonialism and its harms when we see it, as a form of resistance, especially when we are disempowered in our choice of what and how to do work (Dr. Zuleima Morgado Ramirez). Write the words down, put them in presentations, put them on slides, put them in risk registers.
     
-> “one colonialist practice is ‘not talking about things’ ‘pretending all is alright to keep peace and comfort for those in power’” - Dr. Zulemia Morgado Ramirez
+> “one colonialist practice is ‘not talking about things’ ‘pretending all is alright to keep peace and comfort for those in power’” - Dr. Zuleima Morgado Ramirez
 
 -   Include the earth, the land, the waterways, the planet as stakeholders
     
