@@ -48,6 +48,8 @@ We talked about the need for reparations form harm caused by colonialism
 
 We talked about extractive design and research practices and the wish (and difficulty) of employing more participatory, trauma informed practices which honour other ways of working. We talked about how government systems (and beyond) are designed to make different ways of working hard.
 
+> “we are trying to do liberatory work within oppressive structures, governments, corporates etc... and have to navigate that friction” - Ghaith Nassar
+
 We talked about pluriversality.
 
 We talked about how [working in government is slow](https://medium.com/the-service-gazette/the-long-slog-of-public-service-transformation-c129d626a7f0). Change is a relay race, not a sprint.
