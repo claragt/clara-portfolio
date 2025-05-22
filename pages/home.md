@@ -52,3 +52,16 @@ I’m Australian and British, an immigrant, a part-time worker and a parent. My 
 I’m writing [a book called Strong Design](http://strongdesignbook.com/), with [Kara Kane](https://twitter.com/karakane_kk) and [Martin Jordan](http://martinjordan.com/).
 
 ![black and white photo of Clara presenting a training course. She is leaning forward, talking to someone. There is a training slide in the background. ](/static/img/clara-circle-250.png)
+
+
+
+<br>
+<br>
+
+---
+<small>
+I was born on on Bunurong land and raised on land belonging to the Bidjigal and Gadigal Clans. Sovreignty has never been ceeded. I pay my respects to Ancestors and Elders past, present and emerging. 
+
+
+I acknowledge the traditions of design and creativity which First Nations and Indigenous people have lived and used through all time. I support [First Nations Futures](https://www.firstnationsfutures.com/co-invest).
+</small>
