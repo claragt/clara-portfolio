@@ -55,13 +55,11 @@ I’m writing [a book called Strong Design](http://strongdesignbook.com/), with 
 
 
 
+
 <br>
 <br>
 
 ---
-<small>
-I was born on on Bunurong land and raised on land belonging to the Bidjigal and Gadigal Clans. Sovreignty has never been ceeded. I pay my respects to Ancestors and Elders past, present and emerging. 
-
-
-I acknowledge the traditions of design and creativity which First Nations and Indigenous people have lived and used through all time. I support [First Nations Futures](https://www.firstnationsfutures.com/co-invest).
+<small><small>
+I was born on on Bunurong land and raised on land belonging to the Bidjigal and Gadigal Clans. Sovreignty has never been ceeded. I pay my respects to Ancestors and Elders past, present and emerging. I acknowledge the traditions of design and creativity which First Nations and Indigenous people have lived and used through all time. I support [First Nations Futures](https://www.firstnationsfutures.com/co-invest).
 </small>
