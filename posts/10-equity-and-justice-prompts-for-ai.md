@@ -12,7 +12,7 @@ coversmall: static/img/equityjusticsaicoversmall.jpg
 tags:
   - equity
 ---
-# 10 equity and justice prompts for AI
+
 
 We need to be better at having conversations about the equity and justice implications of our use of AI. 
 
