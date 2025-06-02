@@ -32,6 +32,9 @@ Lists of resources for further learning
 
 ### 2025
 
+[10 equity and justice prompts for AI](https://claragreo.com/posts/10-equity-and-justice-prompts-for-ai/)
+By Clara Greo
+
 [Notes from Decolonising service design in government - an open discussion](https://www.claragreo.com/posts/Notes-from-Decolonising-service-design-in-government:-an-open-discussion/)
 
 ### 2﻿024
