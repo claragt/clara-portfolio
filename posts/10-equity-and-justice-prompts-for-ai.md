@@ -23,25 +23,25 @@ You could use these 10 prompts as a set in a workshop context or individually in
     
 
 *Download these [10 equity and justice prompts for AI](https://drive.google.com/file/d/1uFtvpvDhiupP-2CdFQdnG8qqz-TcdL4r/view?usp=sharing) as a pdf*
+<br>
 
-**1. Who will benefit most?** <br>
-
-Which people, users, groups will benefit from this use of AI? <br>
-Who benefits financially, culturally, socially? <br>
-For who does this make work and life easier? <br>
+**1. Who will benefit most?** 
+Which people, users, groups will benefit from this use of AI?
+Who benefits financially, culturally, socially?
+For who does this make work and life easier?
 <br>
 
 **2. Who will be harmed?** 
-
-Which people, users, groups might be harmed by this use of AI? <br>
-What negative impacts might there be, financially, culturally or socially? <br>
-For who does this make work and life worse? <br>
+Which people, users, groups might be harmed by this use of AI?
+What negative impacts might there be, financially, culturally or socially?
+For who does this make work and life worse?
+<br>
 
 **3. Which biases will be amplified?** 
-
 What biases, prejudices and paradigms are in the data the AI is trained on? 
 How will these biases manifest in people’s real lives through your product or service? 
 How this change over time? 
+<br>
 
 **4. What systematic inequalities might this AI mask?** 
 
