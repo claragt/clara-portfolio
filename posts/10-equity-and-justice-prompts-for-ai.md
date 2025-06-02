@@ -12,6 +12,8 @@ coversmall: static/img/equityjusticsaicoversmall.jpg
 tags:
   - equity
 ---
+# 10 equity and justice prompts for AI
+
 We need to be better at having conversations about the equity and justice implications of our use of AI. 
 
 I'm working on a set of 10 equity and justice reflection prompts for teams who are using or considering AI. The aim is to help teams think through and talk about the consequences of this technology through an equity and justice lens. 
@@ -44,49 +46,47 @@ How this change over time?
 <br>
 
 **4. What systematic inequalities might this AI mask?** 
-
 AI not only amplifies structures it’s trained on, it can mask them and legitimise them. 
 What inequalities could be hidden so they can’t be seen, interrogated or traced? 
 Who is protected and who is harmed? 
+<br>
 
 **5. What will the environmental impact be?** 
-
 How will this use of AI impact the environment? 
 How will the impacts change or compound over time and with scale?
 Who will feel these impacts first? 
 Who will feel them most? 
+<br>
 
 **6. Whose work is being used?** 
-
 What is the AI trained on? 
 Who owns that work and whose labour created it? 
 Do they consent? 
 Can they change their consent? 
 Are they being paid? 
 Are they being credited? 
+<br>
 
 **7. What impact will a lack of new ideas have?** 
-
 AI cannot create new, original ideas - it recycles and remixes a subset of what already is. It has a normalising tendency. 
 What impact will this have? 
 What will this do over time? 
+<br>
 
 **8. Who has power?** 
-
 Who does it empower? 
 Who does not have power? 
 Who understands how the AI works, and can change or update it? 
 Who created the algorithms and who owns them? 
+<br>
 
 **9. What politics will it manifest?** 
-
 Tech is not neutral. AI is not a-political. 
-
 What politics will your use of AI have and embody? 
 How is this likely to change over time? 
+<br>
 
 **10. Does it limit or build ownership?** 
-
 Does this use of AI create dependencies in users and communities? 
 Does it allow communities to adapt and change the technology to work for them? 
 
