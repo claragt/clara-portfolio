@@ -36,7 +36,6 @@ By Clara Greo
 ### 2﻿024
 
 [Equity and Justice: why it matters in UK Government digital services and what we can do about it](https://www.claragreo.com/posts/equity-and-justice:-why-it-matters-in-uk-government-digital-services-and-what-we-can-do-about-it/)
-
 B﻿y Clara Greo
 
 ### 2022
@@ -51,7 +50,6 @@ By Clara Greo
 By Clara Greo and Martin Jordan
 
 [What is user-centred design anyway?](https://medium.com/@KaraKane_kk/what-is-user-centred-design-anyway-ac9582ddb6c6)
-
 By Clara Greo and Kara Kane
 
 [How to run a careers event to increase the diversity of your team](https://designnotes.blog.gov.uk/2022/01/19/how-to-run-a-careers-event-to-increase-the-diversity-of-your-team/)
