@@ -38,6 +38,16 @@ By Clara Greo
 [Equity and Justice: why it matters in UK Government digital services and what we can do about it](https://www.claragreo.com/posts/equity-and-justice:-why-it-matters-in-uk-government-digital-services-and-what-we-can-do-about-it/)
 B﻿y Clara Greo
 
+## 2023
+
+[How to run an employee demographics survey](https://claragreo.com/posts/how-to-run-an-employee-demographics-survey/)
+By Clara Greo, Harry Vos, Adam Robertson and Martin Lugton.
+
+[Podcast – Think digital, act human: improving equity in the workplace](https://dfedigital.blog.gov.uk/2023/02/21/podcast-2-ep-5/)
+Adaobi Ifeachor interviews Clara Greo
+
+
+
 ### 2022
 
 [Reflections on running service design training](https://www.claragreo.com/posts/reflections-on-running-service-design-training/)
@@ -54,6 +64,7 @@ By Clara Greo and Kara Kane
 
 [How to run a careers event to increase the diversity of your team](https://designnotes.blog.gov.uk/2022/01/19/how-to-run-a-careers-event-to-increase-the-diversity-of-your-team/)
 By Keeley Robertson and Clara Greo
+
 
 ## 2021
 
