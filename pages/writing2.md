@@ -38,7 +38,7 @@ By Clara Greo
 [Equity and Justice: why it matters in UK Government digital services and what we can do about it](https://www.claragreo.com/posts/equity-and-justice:-why-it-matters-in-uk-government-digital-services-and-what-we-can-do-about-it/)
 B﻿y Clara Greo
 
-## 2023
+### 2023
 
 [How to run an employee demographics survey](https://claragreo.com/posts/how-to-run-an-employee-demographics-survey/)
 By Clara Greo, Harry Vos, Adam Robertson and Martin Lugton.
