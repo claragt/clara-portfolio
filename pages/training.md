@@ -11,12 +11,6 @@ eleventyNavigation:
 
 ## Upcoming courses:
 
-[Money talks: Estimating the cost and value of service design](https://www.tickettailor.com/events/ignaciaandclara/1656762)  
-5 hr, remote training course  
-£275 / £300 ex VAT  
-**Fri 27 Jun 2025**
-
-
 [Advocating for UCD in government](https://www.tickettailor.com/events/claragreo/1686430?)  
 10 hrs, in person in Brighton UK & remote training course  
 £375 / £450 ex VAT  
