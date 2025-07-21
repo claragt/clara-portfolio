@@ -11,12 +11,6 @@ eleventyNavigation:
 
 ## Upcoming courses:
 
-[Advocating for UCD in government](https://www.tickettailor.com/events/claragreo/1686430?)  
-10 hrs, in person in Brighton UK & remote training course  
-£375 / £450 ex VAT  
-**Fri 18 July & Fri 25 July 2025**
-
-
 [Introduction to service design in Government](https://www.tickettailor.com/events/ignaciaandclara/1656747)  
 10 hr, remote training course 
 £600 ex VAT  
