@@ -22,7 +22,8 @@ eleventyNavigation:
 £600 ex VAT  
 **25 Sept - 3 October, 2025**  
 
-[Advocating for UCD in government](https://www.tickettailor.com/events/claragreo/1796918)
+[Advocating for UCD in government]
+(https://www.tickettailor.com/events/claragreo/1796918)
 10 hr, online training course
 £480 
 **Tuesday 14 - Wednesday 22 Oct 2025**
