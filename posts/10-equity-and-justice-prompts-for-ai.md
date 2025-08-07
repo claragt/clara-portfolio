@@ -1,5 +1,5 @@
 ---
-title: 10 equity and justice prompts for AI
+title: 12 equity and justice prompts for AI
 date: 2025-06-02T14:45:43.221Z
 author: Clara Greo
 summary: We need to be better at having conversations about the equity and
@@ -12,7 +12,7 @@ coversmall: static/img/equityjusticsaicoversmall.jpg
 tags:
   - equity
 ---
-# 12 equity and justice prompts for AI
+
 
 *Updated 7 Aug 2025 to add prompts 11 & 12*
 
