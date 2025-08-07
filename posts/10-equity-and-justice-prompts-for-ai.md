@@ -12,7 +12,9 @@ coversmall: static/img/equityjusticsaicoversmall.jpg
 tags:
   - equity
 ---
+# 12 equity and justice prompts for AI
 
+*Updated 7 Aug 2025 to add prompts 11 & 12*
 
 We need to be better at having conversations about the equity and justice implications of our use of AI. 
 
@@ -36,6 +38,7 @@ For who does this make work and life easier?
 **2. Who will be harmed?** 
 Which people, users, groups might be harmed by this use of AI?
 What negative impacts might there be, financially, culturally or socially?
+How will you monitor the impact?
 For who does this make work and life worse?
 <br>
 
@@ -89,6 +92,20 @@ How is this likely to change over time?
 **10. Does it limit or build ownership?** 
 Does this use of AI create dependencies in users and communities? 
 Does it allow communities to adapt and change the technology to work for them? 
+<br>
+
+**11. Who is accountable?**
+What happens when something goes wrong? 
+Who can intervene, appeal, or correct AI-generated decisions?
+What redress is available to those impacted?
+Is there a feedback loop, and who controls it?
+<br>
+
+**12. How is data used, shared and protected?**
+What data might users share? 
+How is it captured and stored?
+How might it be re-used or released in future?
+How is privacy protected?
 
 ---
 
