@@ -1,11 +1,11 @@
 ---
-title: 12 equity and justice prompts for AI
+title: 12 equity and justice questions about AI
 date: 2025-06-02T14:45:43.221Z
 author: Clara Greo
 summary: We need to be better at having conversations about the equity and
-  justice implications of our use of AI. I'm working on a set of 10 equity and
-  justice reflection prompts for teams who are using or considering AI. The aim
-  is to help teams think through and talk about the consequences of this
+  justice implications of our use of AI. I'm working on a set of 12 equity and
+  justice reflection questions for teams who are using or considering AI. The
+  aim is to help teams think through and talk about the consequences of this
   technology through an equity and justice lens.
 cover: static/img/equityjusticsaicover.jpg
 coversmall: static/img/equityjusticsaicoversmall.jpg
@@ -18,15 +18,15 @@ tags:
 
 We need to be better at having conversations about the equity and justice implications of our use of AI. 
 
-I'm working on a set of 10 equity and justice reflection prompts for teams who are using or considering AI. The aim is to help teams think through and talk about the consequences of this technology through an equity and justice lens. 
+I'm working on a set of 10 equity and justice reflection questions for teams who are using or considering AI. The aim is to help teams think through and talk about the consequences of this technology through an equity and justice lens. 
 
 Like consequence scanning, this can help teams mitigate possible harms, consider hidden effects and check in against organisational values. 
 
-You could use these 10 prompts as a set in a workshop context or individually in discussions. You could use them at the beginning of and AI journey, while you're in the process of implementing AI in your product or service or with a live product. You could check in against the prompts just once or regularly throughout a development lifecycle.
+You could use these 10 reflections as a set in a workshop context or individually in discussions. You could use them at the beginning of and AI journey, while you're in the process of implementing AI in your product or service or with a live product. You could check in against the prompts just once or regularly throughout a development lifecycle.
 
     
 
-*Download these [10 equity and justice prompts for AI](https://drive.google.com/file/d/1uFtvpvDhiupP-2CdFQdnG8qqz-TcdL4r/view?usp=sharing) as a pdf*
+*Download these [12 equity and justice questions about AI](https://drive.google.com/file/d/1uFtvpvDhiupP-2CdFQdnG8qqz-TcdL4r/view?usp=sharing) as a pdf*
 <br>
 
 **1. Who will benefit most?** 
@@ -109,7 +109,7 @@ How is privacy protected?
 
 ---
 
-I'd love to hear your feedback on the prompts and whether this is useful to you. 
+I'd love to hear your feedback on the questions and whether this is useful to you. 
 
 ---
 
