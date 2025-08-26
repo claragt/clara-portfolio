@@ -18,16 +18,18 @@ tags:
 
 We need to be better at having conversations about the equity and justice implications of our use of AI. 
 
-I'm working on a set of 10 equity and justice reflection questions for teams who are using or considering AI. The aim is to help teams think through and talk about the consequences of this technology through an equity and justice lens. 
+I'm working on a set of 12 equity and justice reflection questions for teams who are using or considering AI. The aim is to help teams think through and talk about the consequences of this technology through an equity and justice lens. 
 
 Like consequence scanning, this can help teams mitigate possible harms, consider hidden effects and check in against organisational values. 
 
-You could use these 10 reflections as a set in a workshop context or individually in discussions. You could use them at the beginning of and AI journey, while you're in the process of implementing AI in your product or service or with a live product. You could check in against the prompts just once or regularly throughout a development lifecycle.
+You could use these 12 reflections as a set in a workshop context or individually in discussions. You could use them at the beginning of and AI journey, while you're in the process of implementing AI in your product or service or with a live product. You could check in against the prompts just once or regularly throughout a development lifecycle.
 
     
 
-*Download these [12 equity and justice questions about AI](https://drive.google.com/file/d/1uFtvpvDhiupP-2CdFQdnG8qqz-TcdL4r/view?usp=sharing) as a pdf*
+*Download these [12 equity and justice questions about AI](https://drive.google.com/file/d/1XMOd-KCakYTEPJhExD3BN7a3SCQOhlop/view?usp=sharing) as a pdf*
 <br>
+    
+
 
 **1. Who will benefit most?** 
 Which people, users, groups will benefit from this use of AI?
