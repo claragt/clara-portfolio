@@ -16,14 +16,12 @@ eleventyNavigation:
 
 ## Upcoming courses:
 
-
 [Introduction to service design in Government](https://www.tickettailor.com/events/ignaciaandclara/1656747)  
 10 hr, remote training course 
 £600 ex VAT  
 **25 Sept - 3 October, 2025**  
 
-[Advocating for UCD in government]
-(https://www.tickettailor.com/events/claragreo/1796918)
+[Advocating for UCD in government](https://www.tickettailor.com/events/claragreo/1796918)
 10 hr, online training course
 £480 
 **Tuesday 14 - Wednesday 22 Oct 2025**
@@ -33,10 +31,10 @@ eleventyNavigation:
 £185
 **Wednesday 8 October, 2025**
 
-
 [Sign up to our mailing list](https://buttondown.com/ucdtraining) to be notified when new courses are released. 
 <p></div>
 <br />
+
 
 I’m a **service designer** and **user-centred design practitioner and leader**. I try to bring **equity and justice** into public sector digital transformation. 
 
