@@ -1,5 +1,5 @@
 ---
-title: Weeknote S03E1
+title: Weeknote S03E01
 date: 2025-10-01T10:51:52.589Z
 author: Clara
 summary: Weeknote S03E01
