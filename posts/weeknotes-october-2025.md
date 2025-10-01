@@ -8,6 +8,10 @@ coversmall: static/img/mitchell-luo-96yku2rosfa-unsplash-1-.jpg
 tags:
   - weeknote
 ---
+```
+
+```
+
 **I’m starting a new role at [Public Digital](https://public.digital/) as a consultant next week!** 
 
 Weeknotes are a core part of the culture at PD, so I thought I’d start early.
@@ -30,28 +34,27 @@ These are the prompts I’ve used for this reflection:
 * What affirmations might be useful for myself and what am I great at?
 * What do I know I’m not so good at?
 
-*<br />*
+ <br />
 
 And here are some of the highlights of where I’ve got to:
 
 * I will practice saying no / not saying yes to everything
 * I will keep work emails and slack messages on my work laptop only
 * I will not apologise for having a family, needing to take time away or not being available for work all the time
-* I will meet with my partner twice a week to plan our schedules    
+* I will meet with my partner twice a week to plan our schedules
 * I will not teach white people about racism, and I will resist colonial culture
 * I will not have back to back meetings all day
 * I will find ways to bring myself and the things that are important to me into my work at PD, including
+  - Equity and justice
+  - Decolonisation
+  - Politics
+  - People and community
+  - Emotions
+  - Grief
+  - Going slowly and care-fully
+  - Resisting the toxic cultures I’ve experienced in many workplac
 
-  * Equity and justice
-  * Decolonisation
-  * Politics
-  * People and community
-  * Emotions
-  * Grief
-  * Going slowly and care-fully
-  * Resisting the toxic cultures I’ve experienced in many workplaces
-
-*<br />*
+<br />
 
 I believe the work is going to be great. It’s interesting work that I care about. I think I’ll be good at it and also challenged by it. I know there’s lots of fantastic people at PD, both new colleagues and ones I’ve had the privilege of working with before. And I know that I’m so so lucky to be able to say all these things. It’s such a privilege.
 
