@@ -60,6 +60,8 @@ I believe the work is going to be great. It’s interesting work that I care abo
 
 I want to start this job with care and intention, for myself, my family and my new colleagues.
 
+ <br />
+
 - - -
 
 Sending a thank you to my new friend [Sarah](https://www.linkedin.com/in/sarah-clive/), old friend  [Kate](https://bsky.app/profile/kateiw.bsky.social) and middle length friend [Jane](https://www.linkedin.com/in/janemartincreativesocialchange/) for inspiring me to do this reflection. 
