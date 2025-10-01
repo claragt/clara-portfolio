@@ -3,7 +3,7 @@ title: Contact
 date: 2022-11-06T00:46:47.197Z
 permalink: /contact/index.html
 eleventyNavigation:
-  order: 6
+  order: 10
   key: Contact
 ---
 I love collaborating with people on things involving equity and justice; capability and community; and user-centred design and service design. 
