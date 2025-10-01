@@ -8,7 +8,9 @@ coversmall: static/img/mitchell-luo-96yku2rosfa-unsplash-1-.jpg
 tags:
   - weeknote
 ---
-I’m starting a new role at [Public Digital](https://public.digital/) as a consultant next week! Weeknotes are a core part of the culture at PD, so I thought I’d start early.
+**I’m starting a new role at [Public Digital](https://public.digital/) as a consultant next week!** 
+
+Weeknotes are a core part of the culture at PD, so I thought I’d start early.
 
 This week, preparing to start this role has meant practical things like setting up my new laptop and email, getting into slack, choosing my benefits package. It’s also meant doing some reflection and taking time to write down some resolutions and boundaries for myself.
 
@@ -18,6 +20,8 @@ A lot has changed in my life and in myself since my daughter was born at the end
 
 I’ve sat with my partner and worked out, in detail, who is doing each drop off and pick up, every holiday day, every inset day. Which days we’ll need to postpone swimming, book in an extra day of nursery, check in on childcare swaps with other parents. I’ve booked the cleaner, the dog walker and the ready meal delivery. I’m trying to be as ready as I can be for the emotional and logistical changes ahead as well as the professional ones.
 
+*<br />*
+
 These are the prompts I’ve used for this reflection:
 
 * What am I worried about?
@@ -26,8 +30,7 @@ These are the prompts I’ve used for this reflection:
 * What affirmations might be useful for myself and what am I great at?
 * What do I know I’m not so good at?
 
-
-
+*<br />*
 
 And here are some of the highlights of where I’ve got to:
 
@@ -48,15 +51,21 @@ And here are some of the highlights of where I’ve got to:
   * Going slowly and care-fully
   * Resisting the toxic cultures I’ve experienced in many workplaces
 
+*<br />*
+
 I believe the work is going to be great. It’s interesting work that I care about. I think I’ll be good at it and also challenged by it. I know there’s lots of fantastic people at PD, both new colleagues and ones I’ve had the privilege of working with before. And I know that I’m so so lucky to be able to say all these things. It’s such a privilege.
 
 I want to start this job with care and intention, for myself, my family and my new colleagues.
 
 - - -
 
+Sending a thank you to my new friend [Sarah](https://www.linkedin.com/in/sarah-clive/), old friend  [Kate](https://bsky.app/profile/kateiw.bsky.social) and middle length friend [Jane](https://www.linkedin.com/in/janemartincreativesocialchange/) for inspiring me to do this reflection. 
+
 I also want to give thanks to [Caroline](https://www.effortmark.co.uk/blog/), my friend and colleague who, this year, has gently and firmly returned me to work, encouraged me, kept me company with great chats, remembered [Vicky Teinaki](https://www.vickyteinaki.com/about/) with me and given me some good arguments and some great advice. Thank you Caroline 💖
 
 - - -
+
+
 
 ![A photo of a hexagonal building with a glass arched ceiling. It's a library with wooden desks in a start shape. It looks peaceful and beautiful. ](/static/img/mitchell-luo-96yku2rosfa-unsplash.jpg "State library of Victoria")
 
