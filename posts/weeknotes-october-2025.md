@@ -52,7 +52,7 @@ And here are some of the highlights of where I’ve got to:
   - Emotions
   - Grief
   - Going slowly and care-fully
-  - Resisting the toxic cultures I’ve experienced in many workplac
+  - Resisting the toxic cultures I’ve experienced in many workplaces
 
 <br />
 
