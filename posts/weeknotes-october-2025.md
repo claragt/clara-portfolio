@@ -8,10 +8,6 @@ coversmall: static/img/mitchell-luo-96yku2rosfa-unsplash-1-.jpg
 tags:
   - weeknote
 ---
-```
-
-```
-
 **I’m starting a new role at [Public Digital](https://public.digital/) as a consultant next week!** 
 
 Weeknotes are a core part of the culture at PD, so I thought I’d start early.
