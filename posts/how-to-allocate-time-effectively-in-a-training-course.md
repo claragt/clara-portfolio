@@ -144,7 +144,7 @@ You might notice that in our example timings above, the initial ‘talking’ bi
 
 ## Vary the length of the exercises
 
-Variety is more fun for both you and the attendees. By adding both short exercises and longer ones, you’ll help attendees stay engaged.
+Variety is more fun for you and the attendees. By adding both short exercises and longer ones, you’ll help attendees stay engaged.
 
 A few short exercises that we use regularly include:
 
@@ -168,13 +168,13 @@ For example, some approaches we might take within the day are:
 * spend 1-2 minutes on asking people to reflect on experience first as individuals, then compare experiences in pairs for 5 minutes, then work together as a big group for 10 minutes to generate a summary of what they already know
 * set aside 90 minutes for a much longer exercise but break it up into smaller chunks to guide people through it.
 
-> When Caroline is teaching a survey design course in-person for a whole day, she allocates an entire 90-minute session to getting teams to create and test a draft questionnaire. She breaks the session into five roughly equal tasks:
+> *When Caroline is teaching a survey design course in-person for a whole day, she allocates an entire 90-minute session to getting teams to create and test a draft questionnaire. She breaks the session into five roughly equal tasks:*
 >
-> * recap on previous work on goals and sampling,
-> * write questions,
-> * draft a questionnaire,
-> * create an invitation and thank-you, and
-> * test the invitation, questionnaire, and thank-you.
+> * *recap on previous work on goals and sampling,*
+> * *write questions,*
+> * *draft a questionnaire,*
+> * *create an invitation and thank-you, and*
+> * *test the invitation, questionnaire, and thank-you.*
 
 <br />
 
