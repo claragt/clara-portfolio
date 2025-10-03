@@ -10,6 +10,9 @@ eleventyNavigation:
 
 ### 2025
 
+[How to allocate time effectively in a training course](https://claragreo.com/posts/how-to-allocate-time-effectively-in-a-training-course/)
+By Clara Greo and Caroline Jarrett
+
 [Weeknote S03E01](https://claragreo.com/posts/weeknote-s03e01/) 
 
 [12 equity and justice questions about AI](https://claragreo.com/posts/12-equity-and-justice-questions-about-ai/)
