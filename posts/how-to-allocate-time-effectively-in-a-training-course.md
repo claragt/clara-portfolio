@@ -9,9 +9,9 @@ coversmall: static/img/training-600.png
 tags:
   - post
 ---
+By Clara Greo and Caroline Jarrett
+
 In this blog post we will help you to decide how to use the time you have with trainees to run a realistic and effective training course.
-
-
 
 ![A sketch with three areas. On the left, PRESENT with a trainer is says &quot;Listen to me' with three traininees thinking. On the right, FACILITATE with three trainees talking and a trainer saying 'I can help you'. In the middle, TRAIN with the trainer thinking &quot;I'll create a space for you to grasp, practice, reflect, and extract&quot; while the trainees both think and talk](/static/img/training-600.png "Presenting, training and facilitating")
 
@@ -84,8 +84,6 @@ Before you can plan your time within a training course, you need to know:
 * who your trainees are, what they already know, and what they want to learn
 * how long you will have with your trainees
 * a sense of what you want them to take away from the training – these are the ‘ideas’.
-
-
 
 ![You'll probably have a lot of things you want to each and that ought to overlap with things they want to learn. What you choose to teach will likely overlap with both what they want to learn and what you want to teach, with a bit of things that you want to teach but that they don't realise they want to learn](/static/img/choices.png "Decide what you want to teach")
 
