@@ -16,25 +16,15 @@ eleventyNavigation:
 
 ## Upcoming courses:
 
-[Introduction to service design in Government](https://www.tickettailor.com/events/ignaciaandclara/1656747)  
-10 hr, remote training course 
-£600 ex VAT  
-**25 Sept - 3 October, 2025**  
-
 [Advocating for UCD in government](https://www.tickettailor.com/events/claragreo/1796918)
 10 hr, online training course
 £480 
-**Tuesday 14 - Wednesday 22 Oct 2025**
-
-[Workshop facilitation](https://www.tickettailor.com/events/claragreo/1809081)
-3 hr, online training workshop
-£185
-**Wednesday 8 October, 2025**
+**Monday 13 - Wednesday 22 Oct 2025**
 
 [Sign up to our mailing list](https://buttondown.com/ucdtraining) to be notified when new courses are released. 
+
 <p></div>
 <br />
-
 
 I’m a **service designer** and **user-centred design practitioner and leader**. I try to bring **equity and justice** into public sector digital transformation. 
 
@@ -46,13 +36,11 @@ I’m writing [a book called Strong Design](http://strongdesignbook.com/), with 
 
 ![black and white photo of Clara presenting a training course. She is leaning forward, talking to someone. There is a training slide in the background. ](/static/img/clara-circle-250.png)
 
-
-
-
 <br>
 <br>
 
----
+- - -
+
 <small><small>
 I was born on on Bunurong land and raised on land belonging to the Bidjigal and Gadigal Clans. Sovreignty has never been ceeded. I pay my respects to Ancestors and Elders past, present and emerging. I acknowledge the traditions of design and creativity which First Nations and Indigenous people have lived and used through all time. I support [First Nations Futures](https://www.firstnationsfutures.com/co-invest).
 </small>
