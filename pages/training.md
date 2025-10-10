@@ -9,57 +9,36 @@ eleventyNavigation:
 <div style="padding: 20px; background-color: #d3e3d5; border-radius: 7px">
 <header style="margin-top: -50px;">  
 
-## Upcoming courses:
-
-[Introduction to service design in Government](https://www.tickettailor.com/events/ignaciaandclara/1656747)  
-10 hr, remote training course 
-£600 ex VAT  
-**25 Sept - 3 October, 2025**  
+## Upcoming courses
 
 [Advocating for UCD in government](https://www.tickettailor.com/events/claragreo/1796918)
 10 hr, online training course
 £480 
-**Tuesday 14 - Wednesday 22 Oct 2025**
-
-[Workshop facilitation](https://www.tickettailor.com/events/claragreo/1809081)
-3 hr, online training workshop
-£185
-**Wednesday 8 October, 2025**
+**Monday 13 - Wednesday 22 Oct 2025**
 
 [Sign up to our mailing list](https://buttondown.com/ucdtraining) to be notified when new courses are released. 
+
 <p></div>
 <br />
 
 [Get in touch](/contact/index.html) if you’d like to talk to me about your team or organisations’s training needs. 
 
 I can help you:
-  
 
 <h3>Understand your learning needs</h3>
 
 * Map the strengths and gaps of your team’s skill and knowledge
-
 * Benchmark the maturity of research and design in your organisation
-
 * Design learning interventions to support your strategic goals
-<br>
-<h3>Design and deliver learning</h3>
-
+  <br>
 * Create and deliver bespoke training courses
-
 * Develop a programme of learning and support
-
 * Train the trainers to scale up learning
-<br>
-<h3>Support and build your communities of practice</h3>
-
+  <br>
 * Help you build and support you design and research communities
-
 * Work with you to improve specific issues in your community
-
 * Support building equity, diversity and inclusion in your team
 
-  
  <br>
 
 I’ve been developing and delivering training and learning experiences for over 20 years, training 1000s of people.
@@ -73,47 +52,34 @@ I believe that supporting and investing in community is the best way to build ca
 
 ## Current courses
 
-
- 
-
 ### Equity and justice
 
--   [Power and privilege: Designing and building equitable services](https://docs.google.com/document/d/1kAlQ9hp3AwUjRV_ov6E2T2Ix28IAzdEH_ENbwW13pUk/edit#heading=h.ssskjtmeglh0) (8 hour course)
-    
+* [Power and privilege: Designing and building equitable services](https://docs.google.com/document/d/1kAlQ9hp3AwUjRV_ov6E2T2Ix28IAzdEH_ENbwW13pUk/edit#heading=h.ssskjtmeglh0) (8 hour course)
 
 <br>
 
 ### User-centred design
 
--   [Advocating for User-centred design in government](https://www.tickettailor.com/events/ignaciaandclara/1656762) (10 hour course)
-    
--   [Introduction to User-centred Design (UCD) in Government](https://www.tickettailor.com/events/claragreo/1683896) (1 day course)
-    
--   User-centred design induction (2 hour workshop)
-    
--   How to be a designer in Government (8 hour course)
-    
+* [Advocating for User-centred design in government](https://www.tickettailor.com/events/ignaciaandclara/1656762) (10 hour course)
+* [Introduction to User-centred Design (UCD) in Government](https://www.tickettailor.com/events/claragreo/1683896) (1 day course)
+* User-centred design induction (2 hour workshop)
+* How to be a designer in Government (8 hour course)
 
 <br>
 
 ### Service design
 
-
--   [Introduction to service design in Government](https://claragreo.com/posts/Introduction-to-service-design-in-Government:-training-course/) (10 hour course)
-    
--   Service design in practice (20 hour course)
-    
--   Service mapping practitioner level course (8 hour course)
-    
--   Trauma informed research (2 hour workshop)
-    
+* [Introduction to service design in Government](https://claragreo.com/posts/Introduction-to-service-design-in-Government:-training-course/) (10 hour course)
+* Service design in practice (20 hour course)
+* Service mapping practitioner level course (8 hour course)
+* Trauma informed research (2 hour workshop)
 
 <br>
 
 ### Train the trainer
 
--   Writing great training (10 hour course)
-    
+* Writing great training (10 hour course)
+
 <br>
 
 ### [Get in touch](/contact/index.html) if you’re interested in any of these courses
