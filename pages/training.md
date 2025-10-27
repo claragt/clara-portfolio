@@ -53,7 +53,7 @@ I believe that supporting and investing in community is the best way to build ca
 
 ### Training and facilitation
 
-* Workshop facilitation (3 hours) 
+* [Workshop facilitation](https://www.tickettailor.com/events/claragreo/1809081) (3 hours) 
 * Writing great training (10 hours)
     
 
