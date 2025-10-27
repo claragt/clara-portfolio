@@ -14,13 +14,6 @@ eleventyNavigation:
 <div style="padding: 20px; background-color: #d3e3d5; border-radius: 7px">
 <header style="margin-top: -50px;">  
 
-## Upcoming courses:
-
-[Advocating for UCD in government](https://www.tickettailor.com/events/claragreo/1796918)
-10 hr, online training course
-£480 
-**Monday 13 - Wednesday 22 Oct 2025**
-
 [Sign up to our mailing list](https://buttondown.com/ucdtraining) to be notified when new courses are released. 
 
 <p></div>
