@@ -9,9 +9,10 @@ eleventyNavigation:
 <div style="padding: 20px; background-color: #d3e3d5; border-radius: 7px">
 <header style="margin-top: -50px;">
 <br />
+
 [Sign up to our mailing list](https://buttondown.com/ucdtraining) to be notified when new courses are released.
-<p></div>
-<br />
+</div>
+
 
 [Get in touch](/contact/index.html) if you’d like to talk to me about your team or organisations’s training needs. 
 
@@ -53,7 +54,7 @@ I believe that supporting and investing in community is the best way to build ca
 ### Training and facilitation
 
 * [Workshop facilitation](https://www.tickettailor.com/events/claragreo/1809081) (3 hours) 
-- [Writing great training](https://www.tickettailor.com/events/claragreo/839772) (8 hours)
+* [Writing great training](https://www.tickettailor.com/events/claragreo/839772) (8 hours)
     
 
 <br>
