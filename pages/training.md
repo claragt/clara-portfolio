@@ -7,10 +7,9 @@ eleventyNavigation:
   key: Training
 ---
 <div style="padding: 20px; background-color: #d3e3d5; border-radius: 7px">
-<header style="margin-top: -50px;">  
-
-[Sign up to our mailing list](https://buttondown.com/ucdtraining) to be notified when new courses are released. 
-
+<header style="margin-top: -50px;">
+<br />
+[Sign up to our mailing list](https://buttondown.com/ucdtraining) to be notified when new courses are released.
 <p></div>
 <br />
 
