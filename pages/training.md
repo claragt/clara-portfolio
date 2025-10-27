@@ -9,13 +9,6 @@ eleventyNavigation:
 <div style="padding: 20px; background-color: #d3e3d5; border-radius: 7px">
 <header style="margin-top: -50px;">  
 
-## Upcoming courses
-
-[Advocating for UCD in government](https://www.tickettailor.com/events/claragreo/1796918)
-10 hr, online training course
-£480 
-**Monday 13 - Wednesday 22 Oct 2025**
-
 [Sign up to our mailing list](https://buttondown.com/ucdtraining) to be notified when new courses are released. 
 
 <p></div>
@@ -54,32 +47,33 @@ I believe that supporting and investing in community is the best way to build ca
 
 ### Equity and justice
 
-* [Power and privilege: Designing and building equitable services](https://docs.google.com/document/d/1kAlQ9hp3AwUjRV_ov6E2T2Ix28IAzdEH_ENbwW13pUk/edit#heading=h.ssskjtmeglh0) (8 hour course)
+* [Power and privilege: Designing and building equitable services](https://docs.google.com/document/d/1kAlQ9hp3AwUjRV_ov6E2T2Ix28IAzdEH_ENbwW13pUk/edit#heading=h.ssskjtmeglh0) (8 hours)
 
 <br>
 
-### User-centred design
+### Training and facilitation
 
-* [Advocating for User-centred design in government](https://www.tickettailor.com/events/ignaciaandclara/1656762) (10 hour course)
-* [Introduction to User-centred Design (UCD) in Government](https://www.tickettailor.com/events/claragreo/1683896) (1 day course)
-* User-centred design induction (2 hour workshop)
-* How to be a designer in Government (8 hour course)
+* Workshop facilitation (3 hours) 
+* Writing great training (10 hours)
+    
 
 <br>
 
 ### Service design
 
-* [Introduction to service design in Government](https://claragreo.com/posts/Introduction-to-service-design-in-Government:-training-course/) (10 hour course)
-* Service design in practice (20 hour course)
-* Service mapping practitioner level course (8 hour course)
-* Trauma informed research (2 hour workshop)
+* [Introduction to service design in Government](https://claragreo.com/posts/Introduction-to-service-design-in-Government:-training-course/) (10 hours)
+* Service design in practice (3 days)
+* Service mapping practitioner level course (8 hours)
 
 <br>
 
-### Train the trainer
+### User-centred design
 
-* Writing great training (10 hour course)
+* [Advocating for User-centred design in government](https://www.tickettailor.com/events/ignaciaandclara/1656762) (10 hours)
+* [Introduction to User-centred Design (UCD) in Government](https://www.tickettailor.com/events/claragreo/1683896) (1 day)
+* User-centred design induction (2 hours)
+* How to be a designer in Government (8 hours)
 
-<br>
+ <br>
 
 ### [Get in touch](/contact/index.html) if you’re interested in any of these courses
