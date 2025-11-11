@@ -25,6 +25,10 @@ By Clara Greo
 [Equity and Justice: why it matters in UK Government digital services and what we can do about it](https://www.claragreo.com/posts/equity-and-justice:-why-it-matters-in-uk-government-digital-services-and-what-we-can-do-about-it/)
 B﻿y Clara Greo
 
+
+[Service Gazette](https://medium.com/the-service-gazette): [Money talks - Estimating the cost and value of service design](https://medium.com/the-service-gazette/money-talks-a5e305b36d20)
+By [Ignacia Orellana](https://bsky.app/profile/ignaciaorellana.bsky.social) and Clara Greo
+
 ### 2023
 
 [How to run an employee demographics survey](https://claragreo.com/posts/how-to-run-an-employee-demographics-survey/)
