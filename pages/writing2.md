@@ -20,6 +20,9 @@ By Clara Greo
 
 [Notes from Decolonising service design in government - an open discussion](https://www.claragreo.com/posts/Notes-from-Decolonising-service-design-in-government:-an-open-discussion/)
 
+
+[List of oppressed and systematically disadvantaged people and groups in the UK](https://docs.google.com/document/d/12_W31udperQbrU9OOjX_bCAtaP2-p9JcbVwkL5fqFqo/edit?usp=sharing)
+
 ### 2﻿024
 
 [Equity and Justice: why it matters in UK Government digital services and what we can do about it](https://www.claragreo.com/posts/equity-and-justice:-why-it-matters-in-uk-government-digital-services-and-what-we-can-do-about-it/)
