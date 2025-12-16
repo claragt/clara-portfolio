@@ -12,10 +12,8 @@ coversmall: static/img/equityjusticsaicoversmall.jpg
 tags:
   - equity
 ---
-Download the [12 equity and justice questions about AI](https://drive.google.com/file/d/1XMOd-KCakYTEPJhExD3BN7a3SCQOhlop/view?usp=sharing) as a pdf
-<br>
+**Download the [12 equity and justice questions about AI](https://drive.google.com/file/d/1XMOd-KCakYTEPJhExD3BN7a3SCQOhlop/view?usp=sharing) as a pdf**
    
-
 *Updated 7 Aug 2025 to add prompts 11 & 12*
 
 We need to be better at having conversations about the equity and justice implications of our use of AI. 
