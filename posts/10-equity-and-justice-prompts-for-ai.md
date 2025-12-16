@@ -16,6 +16,8 @@ tags:
    
 *Updated 7 Aug 2025 to add prompts 11 & 12*
 
+---
+
 We need to be better at having conversations about the equity and justice implications of our use of AI. 
 
 I'm working on a set of 12 equity and justice reflection questions for teams who are using or considering AI. The aim is to help teams think through and talk about the consequences of this technology through an equity and justice lens. 
