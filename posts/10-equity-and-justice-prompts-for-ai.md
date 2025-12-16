@@ -22,6 +22,10 @@ tags:
 
 ![A highly-contrasted digital landscape of a train going West with settlements in the bottom left. The image has 5 boxes symbolising computer vision, with text that reads "settler" “beckoning mountains” and “the future awaits” and “indigenous population” which is non-existent.](/static/img/hannabarakat-archivalimages-of-ai-aixdesignfrontiermodels-1-1280x894.png "<span><a href=\"www.hbarakat.com\">Hanna Barakat </a> &amp; <a href=\"https://aixdesign.co/posts/archival-images-of-ai\">Archival Images of AI + AIxDESIGN</a> / <a href=\"https://betterimagesofai.org/images?artist=HannaBarakat&title=FrontierModels1\">Frontier Models 1</a> / <a href=\"https://creativecommons.org/licenses/by/4.0/\">Licenced by CC-BY 4.0</a></span>")
 
+\*<span><a href="www.hbarakat.com">Hanna Barakat </a> &amp; <a href="https://aixdesign.co/posts/archival-images-of-ai">Archival Images of AI + AIxDESIGN</a> / <a href="https://betterimagesofai.org/images?artist=HannaBarakat&title=FrontierModels1">Frontier Models 1</a> / <a href="https://creativecommons.org/licenses/by/4.0/">Licenced by CC-BY 4.0</a></span>*
+
+
+
 We need to be better at having conversations about the equity and justice implications of our use of AI. 
 
 I'm working on a set of 12 equity and justice reflection questions for teams who are using or considering AI. The aim is to help teams think through and talk about the consequences of this technology through an equity and justice lens. 
