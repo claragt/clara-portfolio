@@ -12,7 +12,7 @@ coversmall: static/img/equityjusticsaicoversmall.jpg
 tags:
   - equity
 ---
-*Download these [12 equity and justice questions about AI](https://drive.google.com/file/d/1XMOd-KCakYTEPJhExD3BN7a3SCQOhlop/view?usp=sharing) as a pdf*
+Download these [12 equity and justice questions about AI](https://drive.google.com/file/d/1XMOd-KCakYTEPJhExD3BN7a3SCQOhlop/view?usp=sharing) as a pdf
 <br>
    
 
