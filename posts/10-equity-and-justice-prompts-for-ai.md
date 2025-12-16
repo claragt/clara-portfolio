@@ -13,10 +13,14 @@ tags:
   - equity
 ---
 **Download the [12 equity and justice questions about AI](https://drive.google.com/file/d/1XMOd-KCakYTEPJhExD3BN7a3SCQOhlop/view?usp=sharing) as a pdf**
-   
+
 *Updated 7 Aug 2025 to add prompts 11 & 12*
 
----
+- - -
+
+
+
+![A highly-contrasted digital landscape of a train going West with settlements in the bottom left. The image has 5 boxes symbolising computer vision, with text that reads "settler" “beckoning mountains” and “the future awaits” and “indigenous population” which is non-existent.](/static/img/hannabarakat-archivalimages-of-ai-aixdesignfrontiermodels-1-1280x894.png "<span><a href=\"www.hbarakat.com\">Hanna Barakat </a> &amp; <a href=\"https://aixdesign.co/posts/archival-images-of-ai\">Archival Images of AI + AIxDESIGN</a> / <a href=\"https://betterimagesofai.org/images?artist=HannaBarakat&title=FrontierModels1\">Frontier Models 1</a> / <a href=\"https://creativecommons.org/licenses/by/4.0/\">Licenced by CC-BY 4.0</a></span>")
 
 We need to be better at having conversations about the equity and justice implications of our use of AI. 
 
@@ -26,12 +30,8 @@ Like consequence scanning, this can help teams mitigate possible harms, consider
 
 You could use these 12 reflections as a set in a workshop context or individually in discussions. You could use them at the beginning of and AI journey, while you're in the process of implementing AI in your product or service or with a live product. You could check in against the prompts just once or regularly throughout a development lifecycle.
 
-    
-
 *Download these [12 equity and justice questions about AI](https://drive.google.com/file/d/1XMOd-KCakYTEPJhExD3BN7a3SCQOhlop/view?usp=sharing) as a pdf*
 <br>
-    
-
 
 **1. Who will benefit most?** 
 Which people, users, groups will benefit from this use of AI?
@@ -111,14 +111,14 @@ How is it captured and stored?
 How might it be re-used or released in future?
 How is privacy protected?
 
----
+- - -
 
 I'd love to hear your feedback on the questions and whether this is useful to you. 
 
----
-
+- - -
 
 These prompts have been inspired mostly by: 
-- the book [Design Justice](https://designjustice.mitpress.mit.edu/) by By Sasha Costanza-Chock 
-- the article [“It’s Time to Define What “Good” Means in Our Industry”](https://designobserver.com/its-time-to-define-what-good-means-in-our-industry/#:~:text=When%20it%20comes%20to%20design,about%20design%20for%20social%20innovation?) by George Aye 
-- [Consequence scanning](https://doteveryone.org.uk/project/consequence-scanning/) workshop prompts by doteveryone
+
+* the book [Design Justice](https://designjustice.mitpress.mit.edu/) by By Sasha Costanza-Chock 
+* the article [“It’s Time to Define What “Good” Means in Our Industry”](https://designobserver.com/its-time-to-define-what-good-means-in-our-industry/#:~:text=When%20it%20comes%20to%20design,about%20design%20for%20social%20innovation?) by George Aye 
+* [Consequence scanning](https://doteveryone.org.uk/project/consequence-scanning/) workshop prompts by doteveryone
