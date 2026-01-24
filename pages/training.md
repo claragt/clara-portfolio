@@ -11,7 +11,7 @@ eleventyNavigation:
 
 ## Upcoming courses:
 
-\[Introduction to service design in Government](https://www.tickettailor.com/events/ignaciaandclara/2038155)  16-24 April 2026 
+[Introduction to service design in Government](https://www.tickettailor.com/events/ignaciaandclara/2038155) 16-24 April 2026 
 
 *[Sign up to our mailing list](https://buttondown.com/ucdtraining) to be notified when new courses are released.*
 
