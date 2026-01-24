@@ -8,10 +8,16 @@ eleventyNavigation:
 ---
 <div style="padding: 20px; background-color: #d3e3d5; border-radius: 7px">
 <header style="margin-top: -50px;">
+
+## Upcoming courses:
+
+\[Introduction to service design in Government](https://www.tickettailor.com/events/ignaciaandclara/2038155)  16-24 April 2026 
+
+*[Sign up to our mailing list](https://buttondown.com/ucdtraining) to be notified when new courses are released.*
+
+<p></div>
 <br />
 
-[Sign up to our mailing list](https://buttondown.com/ucdtraining) to be notified when new courses are released.
-</div>
 
 
 [Get in touch](/contact/index.html) if you’d like to talk to me about your team or organisations’s training needs. 
