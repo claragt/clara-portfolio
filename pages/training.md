@@ -57,8 +57,6 @@ I believe that supporting and investing in community is the best way to build ca
 
 <br>
 
-
-
 ## Testimonials and feedback
 
 > "Excellently delivered, engaging and good mix of theory and practice, working on fictional services and thinking about our own
@@ -74,7 +72,7 @@ I believe that supporting and investing in community is the best way to build ca
 >
 > "Feeling some new positive energy to take on my work after this training! Thanks :)"
 
-## Current courses
+<br>
 
 ## Current courses
 
