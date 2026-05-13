@@ -57,6 +57,25 @@ I believe that supporting and investing in community is the best way to build ca
 
 <br>
 
+
+
+## Testimonials and feedback
+
+> "Excellently delivered, engaging and good mix of theory and practice, working on fictional services and thinking about our own
+> services. It was also good to hear about real examples from your work, how you approached problems and what worked and what didn't."
+>
+> "I loved how it was a mix of theoretical learning, practical exercises, and space to reflect and share. Thank you for your balance of empathy, listening and giving practical advice and tips!"
+>
+> "You created a warm, open and inclusive environment which made me feel safe to learn and share"
+>
+> "Good balance of interaction, thinking and discussing. Loved your approach and facilitation, Clara! Overall, great day, feeling very energised from the session."
+>
+> "Loved the questions Clara & Ignacia asked us off the back of our original thinkings so we considered another way."
+>
+> "Feeling some new positive energy to take on my work after this training! Thanks :)"
+
+## Current courses
+
 ## Current courses
 
 ### Equity and justice
