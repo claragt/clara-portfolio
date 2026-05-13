@@ -37,11 +37,9 @@ I can help you:
 * Map the strengths and gaps of your team’s skill and knowledge
 * Benchmark the maturity of research and design in your organisation
 * Design learning interventions to support your strategic goals
-  <br>
 * Create and deliver bespoke training courses
 * Develop a programme of learning and support
 * Train the trainers to scale up learning
-  <br>
 * Help you build and support you design and research communities
 * Work with you to improve specific issues in your community
 * Support building equity, diversity and inclusion in your team
