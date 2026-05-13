@@ -25,6 +25,9 @@ Friday 10 Jul 2026
 [Advocating for UCD in government](https://www.tickettailor.com/events/claragreo/2040883) 
 Monday 5 October - Tuesday 13 October 2026
 
+[Introduction to service design in Government](https://buytickets.at/ignaciaandclara/2213564) 
+Monday 9 November - Tuesday 17 November  2026
+
 *[Sign up to our mailing list](https://buttondown.com/ucdtraining) to be notified when new courses are released.*
 
 <p></div>
