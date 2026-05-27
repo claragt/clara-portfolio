@@ -17,6 +17,9 @@ Friday 19 Jun 2026
 [Money talks: estimating the cost and value of service design](https://www.tickettailor.com/events/ignaciaandclara/2201840) 
 Friday 10 Jul 2026
 
+[Service mapping](https://www.tickettailor.com/events/ignaciaandclara/2201884) 
+Tuesday 15 September - Weds 16 September 2026
+
 [Advocating for UCD in government](https://www.tickettailor.com/events/claragreo/2040883) 
 Monday 5 October - Tuesday 13 October 2026
 
