@@ -15,7 +15,7 @@ By Clara Greo and Caroline Jarrett
 
 [Weeknote S03E01](https://claragreo.com/posts/weeknote-s03e01/) 
 
-[12 equity and justice questions about AI](https://claragreo.com/posts/13-equity-and-justice-questions-about-ai/)
+[13 equity and justice questions about AI](https://claragreo.com/posts/13-equity-and-justice-questions-about-ai/)
 By Clara Greo
 
 [Notes from Decolonising service design in government - an open discussion](https://www.claragreo.com/posts/Notes-from-Decolonising-service-design-in-government:-an-open-discussion/)
