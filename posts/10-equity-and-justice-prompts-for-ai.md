@@ -1,12 +1,12 @@
 ---
-title: 12 equity and justice questions about AI
-date: 2025-06-02T14:45:43.221Z
+title: 13 equity and justice questions about AI
+date: 2026-09-08T09:04:04.703Z
 author: Clara Greo
 summary: We need to be better at having conversations about the equity and
-  justice implications of our use of AI. I'm working on a set of 12 equity and
-  justice reflection questions for teams who are using or considering AI. The
-  aim is to help teams think through and talk about the consequences of this
-  technology through an equity and justice lens.
+  justice implications of our use of AI. This is a set of 13 equity and justice
+  reflection questions for teams who are using or considering AI. The aim is to
+  help teams think through and talk about the consequences of this technology
+  through an equity and justice lens.
 cover: static/img/equityjusticsaicover.jpg
 coversmall: static/img/equityjusticsaicoversmall.jpg
 tags:
@@ -20,23 +20,21 @@ Download the [12 equity and justice questions about AI](https://drive.google.com
 
 - - -
 
-
-
-![A highly-contrasted digital landscape of a train going West with settlements in the bottom left. The image has 5 boxes symbolising computer vision, with text that reads "settler" “beckoning mountains” and “the future awaits” and “indigenous population” which is non-existent.](/static/img/hannabarakat-archivalimages-of-ai-aixdesignfrontiermodels-1-1280x894.png "<span><a href=\"www.hbarakat.com\">Hanna Barakat </a> &amp; <a href=\"https://aixdesign.co/posts/archival-images-of-ai\">Archival Images of AI + AIxDESIGN</a> / <a href=\"https://betterimagesofai.org/images?artist=HannaBarakat&title=FrontierModels1\">Frontier Models 1</a> / <a href=\"https://creativecommons.org/licenses/by/4.0/\">Licenced by CC-BY 4.0</a></span>")
+![A highly-contrasted digital landscape of a train going West with settlements in the bottom left. The image has 5 boxes symbolising computer vision, with text that reads "settler" “beckoning mountains” and “the future awaits” and “indigenous population” which is non-existent.](/static/img/hannabarakat-archivalimages-of-ai-aixdesignfrontiermodels-1-1280x894.png "<span><a href=\\"www.hbarakat.com\\">Hanna Barakat </a> &amp; <a href=\\"https://aixdesign.co/posts/archival-images-of-ai\\">Archival Images of AI + AIxDESIGN</a> / <a href=\\"https://betterimagesofai.org/images?artist=HannaBarakat&title=FrontierModels1\\">Frontier Models 1</a> / <a href=\\"https://creativecommons.org/licenses/by/4.0/\\">Licenced by CC-BY 4.0</a></span>")
 
 *<span><a href="www.hbarakat.com">Hanna Barakat </a> &amp; <a href="https://aixdesign.co/posts/archival-images-of-ai">Archival Images of AI + AIxDESIGN</a> / <a href="https://betterimagesofai.org/images?artist=HannaBarakat&title=FrontierModels1">Frontier Models 1</a> / <a href="https://creativecommons.org/licenses/by/4.0/">Licenced by CC-BY 4.0</a></span>*
 
 
 
-**We need to be better at having conversations about the equity and justice implications of our use of AI.** 
+**We need to be better at having conversations about the equity and justice implications of our use of AI.**
 
-**I'm working on a set of 12 equity and justice reflection questions for teams who are using or considering AI. The aim is to help teams think through and talk about the consequences of this technology through an equity and justice lens.** 
+**This is a set of 13 equity and justice reflection questions for teams who are using or considering AI. The aim is to help teams think through and talk about the consequences of this technology through an equity and justice lens.** 
 
 Like consequence scanning, this can help teams mitigate possible harms, consider hidden effects and check in against organisational values. 
 
-You could use these 12 reflections as a set in a workshop context or individually in discussions. You could use them at the beginning of and AI journey, while you're in the process of implementing AI in your product or service or with a live product. You could check in against the prompts just once or regularly throughout a development lifecycle.
+You could use these 13 reflections as a set in a workshop context or individually in discussions. You could use them at the beginning of and AI journey, while you're in the process of implementing AI in your product or service or with a live product. You could check in against the prompts just once or regularly throughout a development lifecycle.
 
-*Download these [12 equity and justice questions about AI](https://drive.google.com/file/d/1XMOd-KCakYTEPJhExD3BN7a3SCQOhlop/view?usp=sharing) as a pdf*
+Download the [13 equity and justice questions about AI](https://drive.google.com/file/d/1yxQvjO01ysasv4HdxciaWA8K39XBj1aQ/view?usp=drive_link) as a pdf
 <br>
 
 **1. Who will benefit most?** 
@@ -117,6 +115,11 @@ How is it captured and stored?
 How might it be re-used or released in future?
 How is privacy protected?
 
+**13. Who are your allies, collaborators and comrades?**
+Who could join you in asking these questions?
+Who shares your goals and values?
+Who might support you with any actions you decide to take, and who might you support and lift up?
+
 - - -
 
 I'd love to hear your feedback on the questions and whether this is useful to you. 
@@ -128,3 +131,4 @@ These prompts have been inspired mostly by:
 * the book [Design Justice](https://designjustice.mitpress.mit.edu/) by By Sasha Costanza-Chock 
 * the article [“It’s Time to Define What “Good” Means in Our Industry”](https://designobserver.com/its-time-to-define-what-good-means-in-our-industry/#:~:text=When%20it%20comes%20to%20design,about%20design%20for%20social%20innovation?) by George Aye 
 * [Consequence scanning](https://doteveryone.org.uk/project/consequence-scanning/) workshop prompts by doteveryone
+* working with [Multitudes](https://multitudes.coop/)
