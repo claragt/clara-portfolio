@@ -12,11 +12,11 @@ coversmall: static/img/equityjusticsaicoversmall.jpg
 tags:
   - equity
 ---
-Download the [12 equity and justice questions about AI](https://drive.google.com/file/d/1XMOd-KCakYTEPJhExD3BN7a3SCQOhlop/view?usp=sharing) as a pdf
+Download the [13 equity and justice questions about AI](https://drive.google.com/file/d/1yxQvjO01ysasv4HdxciaWA8K39XBj1aQ/view?usp=drive_link) as a pdf
 
-*F﻿irst published 2 June 2025*
-
-*Updated 7 Aug 2025 to add prompts 11 & 12*
+*First published 2 June 2025 <br>*
+*Updated 7 Aug 2025 to add prompts 11 & 12 <br>*
+*Updated 8 Sept 2026 to add prompt 13 <br>*
 
 - - -
 
